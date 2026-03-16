@@ -1,0 +1,76 @@
+{
+  "_id": "wI6KsU9XykChiB0R",
+  "name": "Carra",
+  "type": "npc",
+  "img": "modules/coc7-britannia-beyond/assets/icons/adventures/default-npc.webp",
+  "system": {
+    "description": {
+      "value": "<p><em>Lupis's wife, a member of a prominent Cornovii family. She came from Cornovii lands with nearly thirty head of cattle and is skilled in butter and cheese making. She is the primary worker on the farm, handling most dairy operations.</em></p>\n<p><strong>Role:</strong> ally\n | <strong>Occupation:</strong> Wife of Captio Lupis, native Briton from prominent Cornovii family\n</p><hr/>\n<table><tr>\n<td><strong>STR</strong><br/>60</td>\n<td><strong>CON</strong><br/>75</td>\n<td><strong>SIZ</strong><br/>55</td>\n<td><strong>DEX</strong><br/>70</td>\n<td><strong>INT</strong><br/>85</td>\n<td><strong>POW</strong><br/>70</td>\n<td><strong>APP</strong><br/>60</td>\n<td><strong>EDU</strong><br/>85</td>\n</tr></table>\n<p><strong>HP:</strong> 13 | <strong>SAN:</strong> 65 | <strong>MP:</strong> 14</p>",
+      "keeper": "<p><strong>Role:</strong> ally</p>"
+    },
+    "characteristics": {
+      "str": {
+        "value": 60
+      },
+      "con": {
+        "value": 75
+      },
+      "siz": {
+        "value": 55
+      },
+      "dex": {
+        "value": 70
+      },
+      "int": {
+        "value": 85
+      },
+      "pow": {
+        "value": 70
+      },
+      "app": {
+        "value": 60
+      },
+      "edu": {
+        "value": 85
+      }
+    },
+    "attribs": {
+      "hp": {
+        "value": 13,
+        "max": 13
+      },
+      "mp": {
+        "value": 14,
+        "max": 14
+      },
+      "san": {
+        "value": 65,
+        "max": 65
+      }
+    }
+  },
+  "items": [],
+  "effects": [],
+  "folder": null,
+  "sort": 2000,
+  "flags": {
+    "coc7-britannia-beyond": {
+      "adventure": "the-long-dark",
+      "role": "ally",
+      "npcType": "npc"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13",
+    "systemId": "CoC7",
+    "systemVersion": "0.10.0",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  }
+}

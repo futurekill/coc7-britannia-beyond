@@ -1,0 +1,28 @@
+{
+  "_id": "Gp9jqhUZpy3Ln9Vt",
+  "name": "The Long Dark: The Eight Farms of Neidr Aberfa",
+  "formula": "1d6",
+  "replacement": true,
+  "displayRoll": true,
+  "results": [],
+  "folder": null,
+  "sort": 20000,
+  "flags": {
+    "coc7-britannia-beyond": {
+      "adventure": "the-long-dark"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13",
+    "systemId": "CoC7",
+    "systemVersion": "0.10.0",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "_id": "qC6boLZxwtxHWbkn",
+  "name": "Vipera Berus (Common Viper)",
+  "type": "creature",
+  "img": "modules/coc7-britannia-beyond/assets/icons/adventures/default-creature.webp",
+  "system": {
+    "description": {
+      "value": "<p><em>Common venomous snakes found in the area. These are natural creatures, not Mythos beings.</em></p>\n<h3>Attacks</h3><table>\n<tr><th>Attack</th><th>Skill</th><th>Damage</th></tr>\n<tr><td></td><td>40% (20/8)</td><td>1D4+DB+ severe (1D10) poison</td></tr>\n</table>",
+      "keeper": ""
+    },
+    "characteristics": {
+      "str": {
+        "value": 35
+      },
+      "con": {
+        "value": 35
+      },
+      "siz": {
+        "value": 15
+      },
+      "dex": {
+        "value": 90
+      },
+      "pow": {
+        "value": 50
+      }
+    },
+    "attribs": {
+      "hp": {
+        "value": 5,
+        "max": 5
+      },
+      "mp": {
+        "value": 10,
+        "max": 10
+      },
+      "mov": {
+        "value": 0
+      }
+    },
+    "special": {
+      "sanpiLoss": "0/0",
+      "armor": 0,
+      "damageBonus": "0"
+    }
+  },
+  "items": [],
+  "effects": [],
+  "folder": null,
+  "sort": 15000,
+  "flags": {
+    "coc7-britannia-beyond": {
+      "adventure": "the-long-dark",
+      "creatureType": "adventure-creature"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13",
+    "systemId": "CoC7",
+    "systemVersion": "0.10.0",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  }
+}

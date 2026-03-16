@@ -1,0 +1,51 @@
+{
+  "_id": "pv87VcnLmGaCDZv3",
+  "name": "Del'Zelaria",
+  "type": "npc",
+  "img": "modules/coc7-britannia-beyond/assets/icons/adventures/default-npc.webp",
+  "system": {
+    "description": {
+      "value": "<p><em>An ancient, immortal handmaiden serving Queen Maranwe. She successfully resisted being enslaved by Gla'aki and now appears as a pet bog mummy. Has agency and intelligence.</em></p>\n<p><strong>Role:</strong> supernatural_ally\n | <strong>Occupation:</strong> Sidhe handmaiden of Queen Maranwe\n</p><hr/>",
+      "keeper": "<p><strong>Role:</strong> supernatural_ally</p>"
+    },
+    "characteristics": {},
+    "attribs": {
+      "hp": {
+        "value": 0,
+        "max": 0
+      },
+      "mp": {
+        "value": 0,
+        "max": 0
+      },
+      "san": {
+        "value": 0,
+        "max": 0
+      }
+    }
+  },
+  "items": [],
+  "effects": [],
+  "folder": null,
+  "sort": 29000,
+  "flags": {
+    "coc7-britannia-beyond": {
+      "adventure": "a-mortal-harvest",
+      "role": "supernatural_ally",
+      "npcType": "npc"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13",
+    "systemId": "CoC7",
+    "systemVersion": "0.10.0",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  }
+}

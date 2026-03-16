@@ -1,0 +1,54 @@
+{
+  "_id": "bcdldsq5pJsShvis",
+  "name": "Sprites (Worms of the Earth)",
+  "type": "creature",
+  "img": "modules/coc7-britannia-beyond/assets/icons/adventures/default-creature.webp",
+  "system": {
+    "description": {
+      "value": "<p><em>Small serpent-like magical creatures, humanoid worms of the earth. They are the result of interbreeding between full serpent people and humans in prehistoric Britain. Nearly human in appearance with disproportionately large heads, mottled and flaky skin. They speak in harsh, unpleasant language. Two types: small sorcerers (1D2 each) and larger warriors (1D2 each).</em></p>\n<h3>Special Abilities</h3><ul>\n<li>Curse of the Little People - Each sprite uses takes one round and 1D3 magic points</li>\n<li>The range varies according to the 'trick' being performed</li>\n</ul>",
+      "keeper": ""
+    },
+    "characteristics": {},
+    "attribs": {
+      "hp": {
+        "value": 0,
+        "max": 0
+      },
+      "mp": {
+        "value": 0,
+        "max": 0
+      },
+      "mov": {
+        "value": 0
+      }
+    },
+    "special": {
+      "sanpiLoss": "0/1D6 Sanity points to see this type of worm of the earth",
+      "armor": 0,
+      "damageBonus": "0"
+    }
+  },
+  "items": [],
+  "effects": [],
+  "folder": null,
+  "sort": 14000,
+  "flags": {
+    "coc7-britannia-beyond": {
+      "adventure": "the-long-dark",
+      "creatureType": "adventure-creature"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13",
+    "systemId": "CoC7",
+    "systemVersion": "0.10.0",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  }
+}

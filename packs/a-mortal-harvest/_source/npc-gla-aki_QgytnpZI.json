@@ -1,0 +1,51 @@
+{
+  "_id": "QgytnpZIXy0avlqT",
+  "name": "Gla'aki",
+  "type": "npc",
+  "img": "modules/coc7-britannia-beyond/assets/icons/adventures/default-npc.webp",
+  "system": {
+    "description": {
+      "value": "<p><em>The primary antagonist of the scenario. Gla'aki is an immense creature that takes the form of a massive intelligent polyp dwelling in the deep caverns beneath Cythraul Llyn. Gla'aki commands 99 undead servants and seeks to harvest human victims for forced servitude. Gla'aki is virtually impossible to defeat in direct combat.</em></p>\n<p><strong>Role:</strong> primary_antagonist\n | <strong>Occupation:</strong> Great Old One\n</p><hr/>",
+      "keeper": "<p><strong>Role:</strong> primary_antagonist</p>"
+    },
+    "characteristics": {},
+    "attribs": {
+      "hp": {
+        "value": 0,
+        "max": 0
+      },
+      "mp": {
+        "value": 0,
+        "max": 0
+      },
+      "san": {
+        "value": 0,
+        "max": 0
+      }
+    }
+  },
+  "items": [],
+  "effects": [],
+  "folder": null,
+  "sort": 33000,
+  "flags": {
+    "coc7-britannia-beyond": {
+      "adventure": "a-mortal-harvest",
+      "role": "primary_antagonist",
+      "npcType": "npc"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13",
+    "systemId": "CoC7",
+    "systemVersion": "0.10.0",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  }
+}

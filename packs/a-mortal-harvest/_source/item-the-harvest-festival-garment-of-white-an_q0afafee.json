@@ -1,0 +1,37 @@
+{
+  "_id": "q0afafeeS5XYWkxc",
+  "name": "The Harvest Festival Garment of white and tiara",
+  "type": "item",
+  "img": "modules/coc7-britannia-beyond/assets/icons/adventures/default-item.webp",
+  "system": {
+    "description": {
+      "value": "<p><em>Worn by Queen Maranwe, a glittering gown of white and a tiara of gold encrusted with gemstones. Becomes her to her home, asks if they have been properly entertained while they waited, and inquires as to their purpose in her court.</em></p>",
+      "keeper": ""
+    },
+    "properties": {
+      "special": true
+    }
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 37000,
+  "flags": {
+    "coc7-britannia-beyond": {
+      "adventure": "a-mortal-harvest",
+      "itemType": "adventure-prop"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13",
+    "systemId": "CoC7",
+    "systemVersion": "0.10.0",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  }
+}

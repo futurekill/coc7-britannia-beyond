@@ -1,0 +1,62 @@
+{
+  "_id": "CE9fbIN1l2OJbXnP",
+  "name": "The Long Dark: The Long Dark Papers #1",
+  "pages": [
+    {
+      "_id": "9aA6rZYQ9Rg0Uxfq",
+      "name": "The Long Dark Papers #1",
+      "type": "text",
+      "text": {
+        "content": "<p><em>An invitation letter from Captio Lupis to the investigators, inviting them to spend the winter at his farm and celebrate the New Year. Written in a friendly, formal tone.</em></p><p><em>Refer to the Britannia & Beyond rulebook for full handout text.</em></p>",
+        "format": 1,
+        "markdown": ""
+      },
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "sort": 100000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "13",
+        "systemId": "CoC7",
+        "systemVersion": "0.10.0",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      }
+    }
+  ],
+  "folder": null,
+  "sort": 19000,
+  "flags": {
+    "coc7-britannia-beyond": {
+      "adventure": "the-long-dark",
+      "documentType": "handout"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13",
+    "systemId": "CoC7",
+    "systemVersion": "0.10.0",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  }
+}

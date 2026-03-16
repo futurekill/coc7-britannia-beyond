@@ -1,0 +1,37 @@
+{
+  "_id": "r72BoUGS28WmISk9",
+  "name": "Amulet of Ludd",
+  "type": "item",
+  "img": "modules/coc7-britannia-beyond/assets/icons/adventures/default-item.webp",
+  "system": {
+    "description": {
+      "value": "<p><em>A potent magical amulet carried by Queen Maranwe in the Otherworld. Once activated by mental command while being touched, it fills the area within a quarter-mile radius with illumination equal to the noonday summer sun. Said illumination is centered on the amulet and moves with it. It lasts for brief ten minutes. After those ten minutes, the illumination rapidly dims. After that, the amulet of Ludd returns to the Otherworld and the hands of its rightful owner, Queen Maranwe.</em></p><p><strong>Effect:</strong> Fills quarter-mile radius with illumination equal to noonday summer sun for 10 minutes. Can be used to destroy Servants of Gla'aki and trigger the Green Decay in Servants of Gla'aki, destroying them shortly thereafter. Only usable once before returning to the Otherworld.</p>",
+      "keeper": ""
+    },
+    "properties": {
+      "special": true
+    }
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 36000,
+  "flags": {
+    "coc7-britannia-beyond": {
+      "adventure": "a-mortal-harvest",
+      "itemType": "adventure-prop"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13",
+    "systemId": "CoC7",
+    "systemVersion": "0.10.0",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  }
+}

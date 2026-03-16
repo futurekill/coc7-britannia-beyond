@@ -72,6 +72,28 @@
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
       }
+    },
+    {
+      "name": "the-long-dark",
+      "label": "Adventure: The Long Dark",
+      "path": "packs/the-long-dark",
+      "type": "Adventure",
+      "system": "CoC7",
+      "ownership": {
+        "PLAYER": "NONE",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "a-mortal-harvest",
+      "label": "Adventure: A Mortal Harvest",
+      "path": "packs/a-mortal-harvest",
+      "type": "Adventure",
+      "system": "CoC7",
+      "ownership": {
+        "PLAYER": "NONE",
+        "ASSISTANT": "OWNER"
+      }
     }
   ],
   "packFolders": [
@@ -81,6 +103,13 @@
         "bestiary",
         "journal",
         "patrons-and-organizations"
+      ]
+    },
+    {
+      "name": "Adventures",
+      "packs": [
+        "the-long-dark",
+        "a-mortal-harvest"
       ]
     }
   ],

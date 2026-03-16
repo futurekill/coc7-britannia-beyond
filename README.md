@@ -50,6 +50,16 @@ Comprehensive setting reference covering the history, geography, people, religio
 
 This module includes creatures and elements by Ramsey Campbell (Byatis, Eihort, Gla'aki, Y'golonac), Brian Lumley (Yegg-ha), the Clark Ashton Smith estate (Tsathoggua), the Lin Carter estate (Aphoom Zhah), and Robert E. Howard's estate via Cabinet Licensing LLC (Valusia). Confirm explicitly with Golden Goblin Press that your digital module license covers these third-party elements before any public release.
 
+### Adventure Scenarios (2)
+
+Two complete adventures packaged as Foundry Adventure documents with NPCs, creatures, handout props, items, scene-by-scene Keeper notes, and rollable tables.
+
+**The Long Dark** — 13 NPCs, 2 creature types, 8 scenes, 3 props, 1 rollable table. An investigation in rural Britannia involving ancient underground horrors and a Celtic festival gone wrong.
+
+**A Mortal Harvest** — 12 NPCs, 2 creature types (including Gla'aki), 9 scenes, 2 artifacts, 1 handout. A journey from Viroconium into the Otherworld to confront a Great Old One threatening the harvest.
+
+*Note: Map scene images require asset rights confirmation from Golden Goblin Press. Placeholder fog-of-war scenes with text descriptions are used until permission is granted.*
+
 ## Installation
 
 1. Install the base **coc7-cthulhu-invictus** module first
@@ -66,7 +76,9 @@ coc7-britannia-beyond/
 ├── packs/
 │   ├── bestiary/_source/                    # 28 creature Actors
 │   ├── journal/_source/                     # 10 lore JournalEntries
-│   └── patrons-and-organizations/_source/   # 3 organization JournalEntries
+│   ├── patrons-and-organizations/_source/   # 3 organization JournalEntries
+│   ├── the-long-dark/_source/               # 21 adventure documents
+│   └── a-mortal-harvest/_source/            # 18 adventure documents
 └── .gitignore
 ```
 

@@ -1,0 +1,51 @@
+{
+  "_id": "b1ryF3oG9nOkJAJb",
+  "name": "Espaid",
+  "type": "npc",
+  "img": "modules/coc7-britannia-beyond/assets/icons/adventures/default-npc.webp",
+  "system": {
+    "description": {
+      "value": "<p><em>Owner of one of the eight farms in Neidr Aberfa. Retired auxiliary courier.</em></p>\n<p><strong>Role:</strong> ally\n | <strong>Occupation:</strong> Auxiliary Courier, farm owner\n</p><hr/>",
+      "keeper": "<p><strong>Role:</strong> ally</p>"
+    },
+    "characteristics": {},
+    "attribs": {
+      "hp": {
+        "value": 0,
+        "max": 0
+      },
+      "mp": {
+        "value": 0,
+        "max": 0
+      },
+      "san": {
+        "value": 0,
+        "max": 0
+      }
+    }
+  },
+  "items": [],
+  "effects": [],
+  "folder": null,
+  "sort": 10000,
+  "flags": {
+    "coc7-britannia-beyond": {
+      "adventure": "the-long-dark",
+      "role": "ally",
+      "npcType": "npc"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13",
+    "systemId": "CoC7",
+    "systemVersion": "0.10.0",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  }
+}

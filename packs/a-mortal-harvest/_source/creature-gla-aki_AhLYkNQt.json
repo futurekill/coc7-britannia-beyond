@@ -1,0 +1,54 @@
+{
+  "_id": "AhLYkNQtxiM8WnAF",
+  "name": "Gla'aki",
+  "type": "creature",
+  "img": "modules/coc7-britannia-beyond/assets/icons/adventures/default-creature.webp",
+  "system": {
+    "description": {
+      "value": "<p><em>A massive, intelligent creature dwelling in deep caverns. Its main body is an enormous polyp. Its only attack is thrusting/flinging dreadful spines that impale mortal victims. Those killed are cursed to become undead servants. Extremely difficult opponent.</em></p>\n<h3>Special Abilities</h3><ul>\n<li>Thrust/fling dreadful spines into targets</li>\n<li>Curse victims to become undead servants</li>\n<li>Use arcane abilities to capture or charm</li>\n<li>Thick defensive membrane (absorbs 40 points of damage before penetration)</li>\n</ul>",
+      "keeper": ""
+    },
+    "characteristics": {},
+    "attribs": {
+      "hp": {
+        "value": 0,
+        "max": 0
+      },
+      "mp": {
+        "value": 0,
+        "max": 0
+      },
+      "mov": {
+        "value": 0
+      }
+    },
+    "special": {
+      "sanpiLoss": "0/0",
+      "armor": 0,
+      "damageBonus": "0"
+    }
+  },
+  "items": [],
+  "effects": [],
+  "folder": null,
+  "sort": 35000,
+  "flags": {
+    "coc7-britannia-beyond": {
+      "adventure": "a-mortal-harvest",
+      "creatureType": "adventure-creature"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13",
+    "systemId": "CoC7",
+    "systemVersion": "0.10.0",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  }
+}

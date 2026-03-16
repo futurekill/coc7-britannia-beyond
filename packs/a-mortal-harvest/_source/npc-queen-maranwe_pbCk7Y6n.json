@@ -1,0 +1,51 @@
+{
+  "_id": "pbCk7Y6n24rYwlPu",
+  "name": "Queen Maranwe",
+  "type": "npc",
+  "img": "modules/coc7-britannia-beyond/assets/icons/adventures/default-npc.webp",
+  "system": {
+    "description": {
+      "value": "<p><em>A sidhe noblewoman who holds the Amulet of Ludd. She is beautiful but has aged in the Otherworld for six decades. She appears as a withered crone of eighty but with immortal powers. She can be negotiated with and holds the key to stopping the Servants of Gla'aki.</em></p>\n<p><strong>Role:</strong> supernatural_ally\n | <strong>Occupation:</strong> Sidhe noblewoman, holder of the Amulet of Ludd\n</p><hr/>",
+      "keeper": "<p><strong>Role:</strong> supernatural_ally</p>"
+    },
+    "characteristics": {},
+    "attribs": {
+      "hp": {
+        "value": 0,
+        "max": 0
+      },
+      "mp": {
+        "value": 0,
+        "max": 0
+      },
+      "san": {
+        "value": 0,
+        "max": 0
+      }
+    }
+  },
+  "items": [],
+  "effects": [],
+  "folder": null,
+  "sort": 30000,
+  "flags": {
+    "coc7-britannia-beyond": {
+      "adventure": "a-mortal-harvest",
+      "role": "supernatural_ally",
+      "npcType": "npc"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13",
+    "systemId": "CoC7",
+    "systemVersion": "0.10.0",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "_id": "MVeahBQ8wA2V4qSY",
+  "name": "Masks of cloth and leather",
+  "type": "item",
+  "img": "modules/coc7-britannia-beyond/assets/icons/adventures/default-item.webp",
+  "system": {
+    "description": {
+      "value": "<p><em>Decorated with carved glowing faces. Used by the Ghostly Raiders to create an imposing appearance. Provides no special protection or tactical advantage.</em></p>",
+      "keeper": ""
+    },
+    "properties": {
+      "special": true
+    }
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 16000,
+  "flags": {
+    "coc7-britannia-beyond": {
+      "adventure": "the-long-dark",
+      "itemType": "adventure-prop"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13",
+    "systemId": "CoC7",
+    "systemVersion": "0.10.0",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  }
+}

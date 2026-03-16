@@ -1,0 +1,51 @@
+{
+  "_id": "zPlp0yz97sak8Ro4",
+  "name": "Prefect Cnaeus Herius Salvian",
+  "type": "npc",
+  "img": "modules/coc7-britannia-beyond/assets/icons/adventures/default-npc.webp",
+  "system": {
+    "description": {
+      "value": "<p><em>A 42-year-old retired officer of the 20th Legion. Now administrator of Viroconium, he travels everywhere with his personal slave and scribe, capable individual named Tulius Vitalis. Wants the Corniovii back on their lands and is concerned about the southern migration bringing conflict with Debumni. He explains the crisis to the investigators.</em></p>\n<p><strong>Role:</strong> ally\n | <strong>Occupation:</strong> Prefect, Administrator of Viroconium\n</p><hr/>",
+      "keeper": "<p><strong>Role:</strong> ally</p>"
+    },
+    "characteristics": {},
+    "attribs": {
+      "hp": {
+        "value": 0,
+        "max": 0
+      },
+      "mp": {
+        "value": 0,
+        "max": 0
+      },
+      "san": {
+        "value": 0,
+        "max": 0
+      }
+    }
+  },
+  "items": [],
+  "effects": [],
+  "folder": null,
+  "sort": 22000,
+  "flags": {
+    "coc7-britannia-beyond": {
+      "adventure": "a-mortal-harvest",
+      "role": "ally",
+      "npcType": "npc"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13",
+    "systemId": "CoC7",
+    "systemVersion": "0.10.0",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  }
+}

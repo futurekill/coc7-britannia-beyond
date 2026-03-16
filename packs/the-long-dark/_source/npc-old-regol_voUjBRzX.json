@@ -1,0 +1,51 @@
+{
+  "_id": "voUjBRzXhkrwImIR",
+  "name": "Old Regol",
+  "type": "npc",
+  "img": "modules/coc7-britannia-beyond/assets/icons/adventures/default-npc.webp",
+  "system": {
+    "description": {
+      "value": "<p><em>An old carpenter and druid living in the area who has come to warn people away from the valley. He knows the history of Neidr Aberfa and the serpent people. He is a source of information about the valley's dark past and warns of 'fallen warriors' and ghosts.</em></p>\n<p><strong>Role:</strong> ally\n | <strong>Occupation:</strong> Carpenter, druid\n</p><hr/>",
+      "keeper": "<p><strong>Role:</strong> ally</p>"
+    },
+    "characteristics": {},
+    "attribs": {
+      "hp": {
+        "value": 0,
+        "max": 0
+      },
+      "mp": {
+        "value": 0,
+        "max": 0
+      },
+      "san": {
+        "value": 0,
+        "max": 0
+      }
+    }
+  },
+  "items": [],
+  "effects": [],
+  "folder": null,
+  "sort": 5000,
+  "flags": {
+    "coc7-britannia-beyond": {
+      "adventure": "the-long-dark",
+      "role": "ally",
+      "npcType": "npc"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13",
+    "systemId": "CoC7",
+    "systemVersion": "0.10.0",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  }
+}

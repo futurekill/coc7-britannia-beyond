@@ -1,0 +1,37 @@
+{
+  "_id": "rV3RA5t9LH2grWe5",
+  "name": "Harps and musical instruments",
+  "type": "item",
+  "img": "modules/coc7-britannia-beyond/assets/icons/adventures/default-item.webp",
+  "system": {
+    "description": {
+      "value": "<p><em>Instruments used during the Samhain festival celebrations.</em></p>",
+      "keeper": ""
+    },
+    "properties": {
+      "special": true
+    }
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 18000,
+  "flags": {
+    "coc7-britannia-beyond": {
+      "adventure": "the-long-dark",
+      "itemType": "adventure-prop"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13",
+    "systemId": "CoC7",
+    "systemVersion": "0.10.0",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  }
+}

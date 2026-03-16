@@ -1,0 +1,51 @@
+{
+  "_id": "3tdm2h4AHU1hKl7V",
+  "name": "Myrna",
+  "type": "npc",
+  "img": "modules/coc7-britannia-beyond/assets/icons/adventures/default-npc.webp",
+  "system": {
+    "description": {
+      "value": "<p><em>A beautiful, red-haired young Caledonian woman who is the plaything of the sidhe lord Amroth. Part of the Harvest Festival plot.</em></p>\n<p><strong>Role:</strong> ally\n | <strong>Occupation:</strong> Beautiful, red-haired Caledonian woman, plaything of Lord Amroth\n</p><hr/>",
+      "keeper": "<p><strong>Role:</strong> ally</p>"
+    },
+    "characteristics": {},
+    "attribs": {
+      "hp": {
+        "value": 0,
+        "max": 0
+      },
+      "mp": {
+        "value": 0,
+        "max": 0
+      },
+      "san": {
+        "value": 0,
+        "max": 0
+      }
+    }
+  },
+  "items": [],
+  "effects": [],
+  "folder": null,
+  "sort": 28000,
+  "flags": {
+    "coc7-britannia-beyond": {
+      "adventure": "a-mortal-harvest",
+      "role": "ally",
+      "npcType": "npc"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13",
+    "systemId": "CoC7",
+    "systemVersion": "0.10.0",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  }
+}

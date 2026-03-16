@@ -1,0 +1,76 @@
+{
+  "_id": "OYfQSZjfVOk1SMVL",
+  "name": "Dobain",
+  "type": "npc",
+  "img": "modules/coc7-britannia-beyond/assets/icons/adventures/default-npc.webp",
+  "system": {
+    "description": {
+      "value": "<p><em>Owner of one of the eight farms in Neidr Aberfa. An older retired legion member.</em></p>\n<p><strong>Role:</strong> ally\n | <strong>Occupation:</strong> Auxiliary Archer, farm owner\n</p><hr/>\n<table><tr>\n<td><strong>STR</strong><br/>65</td>\n<td><strong>CON</strong><br/>75</td>\n<td><strong>SIZ</strong><br/>60</td>\n<td><strong>DEX</strong><br/>60</td>\n<td><strong>INT</strong><br/>70</td>\n<td><strong>POW</strong><br/>60</td>\n<td><strong>APP</strong><br/>55</td>\n<td><strong>EDU</strong><br/>70</td>\n</tr></table>\n<p><strong>HP:</strong> \u2014 | <strong>SAN:</strong> 70 | <strong>MP:</strong> \u2014</p>",
+      "keeper": "<p><strong>Role:</strong> ally</p>"
+    },
+    "characteristics": {
+      "str": {
+        "value": 65
+      },
+      "con": {
+        "value": 75
+      },
+      "siz": {
+        "value": 60
+      },
+      "dex": {
+        "value": 60
+      },
+      "int": {
+        "value": 70
+      },
+      "pow": {
+        "value": 60
+      },
+      "app": {
+        "value": 55
+      },
+      "edu": {
+        "value": 70
+      }
+    },
+    "attribs": {
+      "hp": {
+        "value": 0,
+        "max": 0
+      },
+      "mp": {
+        "value": 0,
+        "max": 0
+      },
+      "san": {
+        "value": 70,
+        "max": 70
+      }
+    }
+  },
+  "items": [],
+  "effects": [],
+  "folder": null,
+  "sort": 6000,
+  "flags": {
+    "coc7-britannia-beyond": {
+      "adventure": "the-long-dark",
+      "role": "ally",
+      "npcType": "npc"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13",
+    "systemId": "CoC7",
+    "systemVersion": "0.10.0",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  }
+}

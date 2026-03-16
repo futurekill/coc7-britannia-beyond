@@ -1,0 +1,76 @@
+{
+  "_id": "oCauEuTJHNKzkKcc",
+  "name": "Ardar, Iucharba, Dowan, Adwen",
+  "type": "npc",
+  "img": "modules/coc7-britannia-beyond/assets/icons/adventures/default-npc.webp",
+  "system": {
+    "description": {
+      "value": "<p><em>Four warriors accompanying Breseal, intended to assist in his harassment of Lupis and potentially cause trouble.</em></p>\n<p><strong>Role:</strong> neutral/antagonist\n | <strong>Occupation:</strong> Warriors, Breseal's kinsmen\n</p><hr/>\n<table><tr>\n<td><strong>STR</strong><br/>75</td>\n<td><strong>CON</strong><br/>70</td>\n<td><strong>SIZ</strong><br/>75</td>\n<td><strong>DEX</strong><br/>65</td>\n<td><strong>INT</strong><br/>50</td>\n<td><strong>POW</strong><br/>55</td>\n<td><strong>APP</strong><br/>50</td>\n<td><strong>EDU</strong><br/>35</td>\n</tr></table>\n<p><strong>HP:</strong> 14 | <strong>SAN:</strong> 55 | <strong>MP:</strong> 11</p>",
+      "keeper": "<p><strong>Role:</strong> neutral/antagonist</p>"
+    },
+    "characteristics": {
+      "str": {
+        "value": 75
+      },
+      "con": {
+        "value": 70
+      },
+      "siz": {
+        "value": 75
+      },
+      "dex": {
+        "value": 65
+      },
+      "int": {
+        "value": 50
+      },
+      "pow": {
+        "value": 55
+      },
+      "app": {
+        "value": 50
+      },
+      "edu": {
+        "value": 35
+      }
+    },
+    "attribs": {
+      "hp": {
+        "value": 14,
+        "max": 14
+      },
+      "mp": {
+        "value": 11,
+        "max": 11
+      },
+      "san": {
+        "value": 55,
+        "max": 55
+      }
+    }
+  },
+  "items": [],
+  "effects": [],
+  "folder": null,
+  "sort": 4000,
+  "flags": {
+    "coc7-britannia-beyond": {
+      "adventure": "the-long-dark",
+      "role": "neutral/antagonist",
+      "npcType": "npc"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13",
+    "systemId": "CoC7",
+    "systemVersion": "0.10.0",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  }
+}

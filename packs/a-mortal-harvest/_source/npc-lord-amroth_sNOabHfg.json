@@ -1,0 +1,51 @@
+{
+  "_id": "sNOabHfg57S5Q5ax",
+  "name": "Lord Amroth",
+  "type": "npc",
+  "img": "modules/coc7-britannia-beyond/assets/icons/adventures/default-npc.webp",
+  "system": {
+    "description": {
+      "value": "<p><em>A sidhe nobleman and former lover of Queen Maranwe. Part of the Otherworldly realm's politics.</em></p>\n<p><strong>Role:</strong> supernatural_ally\n | <strong>Occupation:</strong> Sidhe nobleman, former lover of Queen Maranwe\n</p><hr/>",
+      "keeper": "<p><strong>Role:</strong> supernatural_ally</p>"
+    },
+    "characteristics": {},
+    "attribs": {
+      "hp": {
+        "value": 0,
+        "max": 0
+      },
+      "mp": {
+        "value": 0,
+        "max": 0
+      },
+      "san": {
+        "value": 0,
+        "max": 0
+      }
+    }
+  },
+  "items": [],
+  "effects": [],
+  "folder": null,
+  "sort": 31000,
+  "flags": {
+    "coc7-britannia-beyond": {
+      "adventure": "a-mortal-harvest",
+      "role": "supernatural_ally",
+      "npcType": "npc"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13",
+    "systemId": "CoC7",
+    "systemVersion": "0.10.0",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  }
+}

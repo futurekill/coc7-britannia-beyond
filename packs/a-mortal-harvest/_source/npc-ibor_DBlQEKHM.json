@@ -1,0 +1,51 @@
+{
+  "_id": "DBlQEKHMWE73ChEx",
+  "name": "Ibor",
+  "type": "npc",
+  "img": "modules/coc7-britannia-beyond/assets/icons/adventures/default-npc.webp",
+  "system": {
+    "description": {
+      "value": "<p><em>An angry, bitter old man of the Dobunni clan whose hatred of the Corniovii is famous among his own clan. His pride still hurts from past humiliation.</em></p>\n<p><strong>Role:</strong> antagonist\n | <strong>Occupation:</strong> Angry old man of the Dobunni\n</p><hr/>",
+      "keeper": "<p><strong>Role:</strong> antagonist</p>"
+    },
+    "characteristics": {},
+    "attribs": {
+      "hp": {
+        "value": 0,
+        "max": 0
+      },
+      "mp": {
+        "value": 0,
+        "max": 0
+      },
+      "san": {
+        "value": 0,
+        "max": 0
+      }
+    }
+  },
+  "items": [],
+  "effects": [],
+  "folder": null,
+  "sort": 27000,
+  "flags": {
+    "coc7-britannia-beyond": {
+      "adventure": "a-mortal-harvest",
+      "role": "antagonist",
+      "npcType": "npc"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13",
+    "systemId": "CoC7",
+    "systemVersion": "0.10.0",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  }
+}

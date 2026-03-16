@@ -1,0 +1,377 @@
+{
+  "_id": "BFNCjuhFMLeIWJuW",
+  "name": "Adventure: A Mortal Harvest",
+  "pages": [
+    {
+      "_id": "yXafCfm5WshTRkIN",
+      "name": "Overview",
+      "type": "text",
+      "text": {
+        "content": "<h2>A Mortal Harvest</h2><p><strong>Setting:</strong> Viroconium Cornoviorum (Wroxeter) and surrounding territories in Britannia</p><p><strong>Time:</strong> Roman Britain, autumn season</p><hr/><p><em>Autumn is settling into Britannia, and strange alarms race through Viroconium Cornoviorum as a thousand Cells are migrating towards the town from the north. These are Corniovii refugees fleeing Viroconium, driven southward by the mysterious Debumni tribe and reports of creatures attacking. The investigators are stationed in Viroconium and ordered to investigate. They must work with the Corniovii refugees, the Debumni warriors, and discover the truth: the Servants of Gla'aki (undead creatures) are harvesting humans as slaves for their dark masters. The adventure culminates in a journey to the Otherworld to confront Queen Maranwe and obtain the Amulet of Ludd, an artifact that can stop the supernatural threat. Multiple endings are possible based on investigator choices.</em></p>",
+        "format": 1,
+        "markdown": ""
+      },
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "sort": 100000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "13",
+        "systemId": "CoC7",
+        "systemVersion": "0.10.0",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      }
+    },
+    {
+      "_id": "fgbZsucOpHvvcu46",
+      "name": "Viroconium Cornoviorum",
+      "type": "text",
+      "text": {
+        "content": "<p><em>The town of Viroconium nestled between the territory of two tribes: the Corniovii and the Dobunni. This is a crucial meeting point for negotiations and the primary location where the investigators receive their orders. Viroconium is the focus where the crisis begins and volunteer assists from the community.</em></p>",
+        "format": 1,
+        "markdown": ""
+      },
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "sort": 200000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "13",
+        "systemId": "CoC7",
+        "systemVersion": "0.10.0",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      }
+    },
+    {
+      "_id": "40YMLS7LIT0HbLvh",
+      "name": "Corniovii Refugee Encampment",
+      "type": "text",
+      "text": {
+        "content": "<p><em>About a thousand Corniovii refugees camp outside the town. About four hundred and fifty able-bodied warriors (two hundred mounted) camp with about a hundred drawn wagons and twice that many ox-wheeled carts. About a hundred drawn women and children move away to hide behind wagons while warriors both rest and mounted, moving forward to take up defensive posture. Their warriors are courteous to their guests, especially if the investigators are Romans or ethically Celtic, receiving a bonus die to such rolls.</em></p>",
+        "format": 1,
+        "markdown": ""
+      },
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "sort": 300000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "13",
+        "systemId": "CoC7",
+        "systemVersion": "0.10.0",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      }
+    },
+    {
+      "_id": "cH7IZku7QTsPvmjk",
+      "name": "Evacuated Villages",
+      "type": "text",
+      "text": {
+        "content": "<p><em>These villages are hastily abandoned and not a single living soul remains. Each village was home to roughly two hundred and fifty people and on four to seven farms (ID3+4). What livestock cattle, sheep, pigs remain have been left or are diseased. Some will either be dead or dying by the time their owners plan to return to them (mid-winter).</em></p>",
+        "format": 1,
+        "markdown": ""
+      },
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "sort": 400000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "13",
+        "systemId": "CoC7",
+        "systemVersion": "0.10.0",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      }
+    },
+    {
+      "_id": "fy1HxN5q48vdQ4wt",
+      "name": "The Villages (Amgen Gosoda, Braidd, Fellaf, Certh Dodi)",
+      "type": "text",
+      "text": {
+        "content": "<p><em>Four specific villages that the Dark Harper has visited. Details about these villages guide investigators. The Dark Harper appears to be the one who visited or is suspected of visiting all of them. The fact that there are four evacuated villages can help investigators track the Dark Harper.</em></p>",
+        "format": 1,
+        "markdown": ""
+      },
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "sort": 500000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "13",
+        "systemId": "CoC7",
+        "systemVersion": "0.10.0",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      }
+    },
+    {
+      "_id": "ohPr5zhP8i8PV6HH",
+      "name": "The Otherworld",
+      "type": "text",
+      "text": {
+        "content": "<p><em>Investigators seeking to obtain the Amulet of Ludd must journey to the Otherworld. This realm is described as a world that mirrors our own but appears to be a paradise. Colors are more vivid, smells more acute, everything somewhat seems magical and beautiful. Even the air tastes sweeter and smells more acutely of summer rain. The journey to the Otherworld through the Sacred Place takes three hours of pleasant and peaceful trekking along a well-maintained path through the woods. Delicious fruit and nuts hang from branches of trees along the road, and springs of bubbling water are easily found. The forest teems with life: squirrels, badgers, songbirds, forest bison, deer, and elk. Investigators can even spot a white hart (massive white stag), a unicorn, and a strange cross between a lion and a bobcat (a Cath-Shee). The forest ends at a set of rolling hills, one of which holds a large stone castle.</em></p>",
+        "format": 1,
+        "markdown": ""
+      },
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "sort": 600000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "13",
+        "systemId": "CoC7",
+        "systemVersion": "0.10.0",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      }
+    },
+    {
+      "_id": "izIqAxZv3oOEsW9h",
+      "name": "Queen Maranwe's Castle",
+      "type": "text",
+      "text": {
+        "content": "<p><em>A magnificent castle with dozens of towers, crystal windows, silk pennants fluttering in the wind, and tall carved arched doorways. Six sidhe warriors stop the investigators at the gate. They wear glittering mail and gleaming silver helmets and carry long spears. They ask the investigators to state their names and purpose. If investigators introduce themselves and ask for an audience with Queen Maranwe, the guards ask them to follow and escort them inside. While another six guards take their place outside, another six guards take their place. If investigators try to push past the guards, they will be attacked. Statistics are provided at the end of the scenario.</em></p>",
+        "format": 1,
+        "markdown": ""
+      },
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "sort": 700000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "13",
+        "systemId": "CoC7",
+        "systemVersion": "0.10.0",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      }
+    },
+    {
+      "_id": "Yew775wT8eZS5BNV",
+      "name": "The Harvest Ball",
+      "type": "text",
+      "text": {
+        "content": "<p><em>Queen Maranwe has her handmaiden, Del'Zelaria, take her companion to be bathed and suitably dressed for a party. They are washed and dressed in long, beautiful silver linen tunic or gown. The queen explains that her usual partner is a sidhe lord named Amroth, but their 'Hibernian plaything' Myrna has come to the Otherworld for this celebration. Her plan explains to the investigator is to reclaim her place on Earth. If her guest is male, he is asked to pretend that he is Maranwe's mortal lover, sticking close to her and acting as if he adores her. 'This will drive Amroth mad with jealousy,' says the queen. She also wishes for the investigator to try to flirt with his mortal guest of the party, maybe to 'show Amroth how fickle and disloyal such women are.' She gives the investigator a silver ring and tells him, 'Put this on and you'll understand and speak any tongue you hear. That girl speaks only Hibernian, so unless you speak it as well, you will not be able to communicate with her. Oh, and if you could seduce a kiss from her and Amroth's love fails you her. It would be wonderful!'</em></p>",
+        "format": 1,
+        "markdown": ""
+      },
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "sort": 800000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "13",
+        "systemId": "CoC7",
+        "systemVersion": "0.10.0",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      }
+    },
+    {
+      "_id": "ESncn9A384IrLVSc",
+      "name": "Cythraul Llyn (Demon Lake)",
+      "type": "text",
+      "text": {
+        "content": "<p><em>A dark water lake formed when a meteor smashed into the Earth. It slowly fills with water. Within that meteor cavity, the Great Old One Gla'aki is dwelling in the depths of the lake's dark waters. Mist frequently rises off the surface. Legends concerning the lake say it is an evil place where people disappear in the region. Cythraul Llyn means 'Lake of the Demon.' Should the Servants of Gla'aki be forced away or if they successfully abduct a new crop of mortal victims, this is where they eventually gather to await 'harvest.' Investigators going to this location face incredible odds when trying to confront Gla'aki.</em></p>",
+        "format": 1,
+        "markdown": ""
+      },
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "sort": 900000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "13",
+        "systemId": "CoC7",
+        "systemVersion": "0.10.0",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      }
+    },
+    {
+      "_id": "dcpyxVVrv3QbuZHm",
+      "name": "The Lair of the Walking Dead",
+      "type": "text",
+      "text": {
+        "content": "<p><em>The Servants of Gla'aki spend most of their time in their underground temple. This cavern system begins at a cave opening in a wooded hillside and descends several hundred feet underground. There are four sleep stairways and a pair of spiral staircases cut into the stone, leading to a natural cavern system. These passages were carved out by generations of Servants of Gla'aki who have laired here for centuries. The lair has a complex security system. The upper guardroom, lower guardroom, and the temple are all linked by a series of tubes ending in funnels, designed for carrying amplified sound. Besides each funnel is a bell with a rope attached to the clapper. Any loud disturbance in one of these rooms is heard in the others 70% of the time. These chances are halved (10% and 35%) between the upper guardroom and the temple, due to the greater distance. Investigators can disable the system by blocking the funnel beside the bell, effectively preventing the transmission of sound. Wet rags and balls of wax work best.</em></p>",
+        "format": 1,
+        "markdown": ""
+      },
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "sort": 1000000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "13",
+        "systemId": "CoC7",
+        "systemVersion": "0.10.0",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      }
+    }
+  ],
+  "folder": null,
+  "sort": 21000,
+  "flags": {
+    "coc7-britannia-beyond": {
+      "adventure": "a-mortal-harvest",
+      "documentType": "adventure-overview"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13",
+    "systemId": "CoC7",
+    "systemVersion": "0.10.0",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  }
+}

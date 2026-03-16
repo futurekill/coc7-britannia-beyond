@@ -1,0 +1,76 @@
+{
+  "_id": "mUTDGMNVVmbgtJ7z",
+  "name": "Captio Lupis",
+  "type": "npc",
+  "img": "modules/coc7-britannia-beyond/assets/icons/adventures/default-npc.webp",
+  "system": {
+    "description": {
+      "value": "<p><em>A 41-year-old retired soldier who invites the investigators to his farm for the winter. He is newly married to a wealthy native woman (Carra) and has settled in the valley. Drinks wine and beer, occasionally indulges in battle cries. Initially unaware of the true supernatural nature of the farm's problems.</em></p>\n<p><strong>Role:</strong> ally\n | <strong>Occupation:</strong> Retired Legionary (Legio VI Victrix)\n</p><hr/>\n<table><tr>\n<td><strong>STR</strong><br/>70</td>\n<td><strong>CON</strong><br/>75</td>\n<td><strong>SIZ</strong><br/>60</td>\n<td><strong>DEX</strong><br/>70</td>\n<td><strong>INT</strong><br/>60</td>\n<td><strong>POW</strong><br/>70</td>\n<td><strong>APP</strong><br/>55</td>\n<td><strong>EDU</strong><br/>45</td>\n</tr></table>\n<p><strong>HP:</strong> 13 | <strong>SAN:</strong> 60 | <strong>MP:</strong> 14</p>\n<p><strong>Skills:</strong> Climb 40, Dodge 45, Drive 40, Empire 45, Fight 70, Language (Other: Latin) 45, Language (Own: Brythonic) 45, Ride 45, Spot Hidden 55, Status 40, Tactics 40, Throw 45</p>\n<p><strong>Attacks:</strong></p><ul>\n<li>Attack: 65 \u2014 1D8+3/1D2</li>\n<li>Attack: 70 \u2014 1D6+1+DB</li>\n<li>Attack: 45 \u2014 1D8/2D9 thrown</li>\n<li>Attack: 40 \u2014 1D4+DB</li>\n</ul>",
+      "keeper": "<p><strong>Role:</strong> ally</p>"
+    },
+    "characteristics": {
+      "str": {
+        "value": 70
+      },
+      "con": {
+        "value": 75
+      },
+      "siz": {
+        "value": 60
+      },
+      "dex": {
+        "value": 70
+      },
+      "int": {
+        "value": 60
+      },
+      "pow": {
+        "value": 70
+      },
+      "app": {
+        "value": 55
+      },
+      "edu": {
+        "value": 45
+      }
+    },
+    "attribs": {
+      "hp": {
+        "value": 13,
+        "max": 13
+      },
+      "mp": {
+        "value": 14,
+        "max": 14
+      },
+      "san": {
+        "value": 60,
+        "max": 60
+      }
+    }
+  },
+  "items": [],
+  "effects": [],
+  "folder": null,
+  "sort": 1000,
+  "flags": {
+    "coc7-britannia-beyond": {
+      "adventure": "the-long-dark",
+      "role": "ally",
+      "npcType": "npc"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13",
+    "systemId": "CoC7",
+    "systemVersion": "0.10.0",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  }
+}

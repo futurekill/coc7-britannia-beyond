@@ -1,0 +1,73 @@
+{
+  "_id": "l2J2bdc9Ddrvqtop",
+  "name": "Servants of Gla'aki",
+  "type": "creature",
+  "img": "modules/coc7-britannia-beyond/assets/icons/adventures/default-creature.webp",
+  "system": {
+    "description": {
+      "value": "<p><em>There are ninety-nine active Servants of Gla'aki in the scenario. These are mindless undead created by transformation into lifeless corpses. They are an advanced state of decomposition, no longer able to pass as living humans at any distance. Limited to the consciousness of Gla'aki, they are completely subject to its will. Currently, Gla'aki's focus is on harvesting the horde. Being living dead does not mean immortal. Instinctively, they know that any bright light will bring about their ultimate demise. If the amulet is used, it returns to the Otherworld and the hands of its rightful owner, Queen Maranwe.</em></p>",
+      "keeper": ""
+    },
+    "characteristics": {
+      "str": {
+        "value": 3
+      },
+      "con": {
+        "value": 3
+      },
+      "siz": {
+        "value": 2
+      },
+      "dex": {
+        "value": 2
+      },
+      "int": {
+        "value": 2
+      },
+      "pow": {
+        "value": 4
+      }
+    },
+    "attribs": {
+      "hp": {
+        "value": 0,
+        "max": 0
+      },
+      "mp": {
+        "value": 0,
+        "max": 0
+      },
+      "mov": {
+        "value": 0
+      }
+    },
+    "special": {
+      "sanpiLoss": "0/0",
+      "armor": 0,
+      "damageBonus": "0"
+    }
+  },
+  "items": [],
+  "effects": [],
+  "folder": null,
+  "sort": 34000,
+  "flags": {
+    "coc7-britannia-beyond": {
+      "adventure": "a-mortal-harvest",
+      "creatureType": "adventure-creature"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13",
+    "systemId": "CoC7",
+    "systemVersion": "0.10.0",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  }
+}
