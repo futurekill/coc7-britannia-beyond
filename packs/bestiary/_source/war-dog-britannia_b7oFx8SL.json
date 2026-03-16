@@ -1,11 +1,12 @@
 {
   "_id": "b7oFx8SLEq0gMsrC",
+  "_key": "!actors!b7oFx8SLEq0gMsrC",
   "name": "War Dog (Britannia)",
   "type": "creature",
   "img": "modules/coc7-britannia-beyond/assets/icons/bestiary/default-creature.webp",
   "system": {
     "description": {
-      "value": "<p><em>Trained to fight alongside warriors. Largest and most aggressive dog breed. Famous export.</em></p>\n<hr/>\n<p><strong>Category:</strong> Wildlife of Britannia</p>\n<h3>Characteristics</h3>\n<table><tr>\n<td><strong>STR</strong><br/>60</td>\n<td><strong>CON</strong><br/>70</td>\n<td><strong>SIZ</strong><br/>50</td>\n<td><strong>DEX</strong><br/>65</td>\n<td><strong>INT</strong><br/>\u2014</td>\n<td><strong>POW</strong><br/>60</td>\n</tr></table>\n<p><strong>HP:</strong> 12 | <strong>DB:</strong> 0 | <strong>Build:</strong> 0 | <strong>Move:</strong> 12</p>\n<h3>Attacks</h3><table>\n<tr><th>Attack</th><th>Skill</th><th>Damage</th></tr>\n<tr><td>Bite and nails</td><td>70%</td><td>1D4+DB</td></tr>\n</table>\n<p><strong>Armor:</strong> None</p>\n<p><strong>Skills:</strong> Listen 75%, Track (by scent) 60%</p>\n<p><strong>Habitat:</strong> Throughout Britannia and across the Roman Empire</p>",
+      "value": "<p><em>Trained to fight alongside warriors. Largest and most aggressive dog breed. Famous export.</em></p>\n<hr/>\n<p><strong>Category:</strong> Wildlife of Britannia</p>\n<h3>Characteristics</h3>\n<table><tr>\n<td><strong>STR</strong><br/>60</td>\n<td><strong>CON</strong><br/>70</td>\n<td><strong>SIZ</strong><br/>50</td>\n<td><strong>DEX</strong><br/>65</td>\n<td><strong>INT</strong><br/>—</td>\n<td><strong>POW</strong><br/>60</td>\n</tr></table>\n<p><strong>HP:</strong> 12 | <strong>DB:</strong> 0 | <strong>Build:</strong> 0 | <strong>Move:</strong> 12</p>\n<h3>Attacks</h3><table>\n<tr><th>Attack</th><th>Skill</th><th>Damage</th></tr>\n<tr><td>Bite and nails</td><td>70%</td><td>1D4+DB</td></tr>\n</table>\n<p><strong>Armor:</strong> None</p>\n<p><strong>Skills:</strong> Listen 75%, Track (by scent) 60%</p>\n<p><strong>Habitat:</strong> Throughout Britannia and across the Roman Empire</p>",
       "keeper": ""
     },
     "type": "wildlife",

@@ -1,11 +1,12 @@
 {
   "_id": "7Diw7lV64U5hR7Ga",
+  "_key": "!actors!7Diw7lV64U5hR7Ga",
   "name": "Gla'aki and Servants",
   "type": "creature",
   "img": "modules/coc7-britannia-beyond/assets/icons/bestiary/default-creature.webp",
   "system": {
     "description": {
-      "value": "<p><em>Great Old One with Servants. Associated with influence in Sabrina River (Severn Valley) region. One of Ramsey Campbell's famous creations.</em></p>\n<hr/>\n<p><strong>Category:</strong> Mythos Entity</p>\n<p><strong>HP:</strong> \u2014 | <strong>DB:</strong> \u2014 | <strong>Build:</strong> \u2014 | <strong>Move:</strong> \u2014</p>\n<p><strong>Armor:</strong> None</p>",
+      "value": "<p><em>Great Old One with Servants. Associated with influence in Sabrina River (Severn Valley) region. One of Ramsey Campbell's famous creations.</em></p>\n<hr/>\n<p><strong>Category:</strong> Mythos Entity</p>\n<p><strong>HP:</strong> — | <strong>DB:</strong> — | <strong>Build:</strong> — | <strong>Move:</strong> —</p>\n<p><strong>Armor:</strong> None</p>",
       "keeper": ""
     },
     "type": "mythos",

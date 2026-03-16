@@ -1,5 +1,6 @@
 {
   "_id": "5P4pGw2qFja3tr2g",
+  "_key": "!journal!5P4pGw2qFja3tr2g",
   "name": "Hibernia, the Land of Winter",
   "pages": [
     {
@@ -7,7 +8,7 @@
       "name": "Hibernia, the Land of Winter",
       "type": "text",
       "text": {
-        "content": "<p><em>Green and mysterious lands across the sea. Never conquered by Rome. Known for slavers raiding Britannia, dark magic, folklore, connection to s\u00eddhe. Edge of known world.</em></p><p><em>Refer to the Britannia & Beyond rulebook for full details.</em></p>",
+        "content": "<p><em>Green and mysterious lands across the sea. Never conquered by Rome. Known for slavers raiding Britannia, dark magic, folklore, connection to sídhe. Edge of known world.</em></p><p><em>Refer to the Britannia & Beyond rulebook for full details.</em></p>",
         "format": 1,
         "markdown": ""
       },

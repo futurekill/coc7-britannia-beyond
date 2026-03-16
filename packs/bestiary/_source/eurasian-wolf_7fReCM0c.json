@@ -1,11 +1,12 @@
 {
   "_id": "7fReCM0cUjz80eab",
+  "_key": "!actors!7fReCM0cUjz80eab",
   "name": "Eurasian Wolf",
   "type": "creature",
   "img": "modules/coc7-britannia-beyond/assets/icons/bestiary/default-creature.webp",
   "system": {
     "description": {
-      "value": "<p><em>Most feared natural predator. Significantly larger than grey cousins, 2.5 feet at shoulder, weighs 110-130 pounds. Pelts prized for their luxuriant coats.</em></p>\n<hr/>\n<p><strong>Category:</strong> Wildlife of Britannia</p>\n<h3>Characteristics</h3>\n<table><tr>\n<td><strong>STR</strong><br/>95</td>\n<td><strong>CON</strong><br/>65</td>\n<td><strong>SIZ</strong><br/>80</td>\n<td><strong>DEX</strong><br/>80</td>\n<td><strong>INT</strong><br/>\u2014</td>\n<td><strong>POW</strong><br/>50</td>\n</tr></table>\n<p><strong>HP:</strong> 14 | <strong>DB:</strong> +1D6 | <strong>Build:</strong> 2 | <strong>Move:</strong> 10</p>\n<h3>Attacks</h3><table>\n<tr><th>Attack</th><th>Skill</th><th>Damage</th></tr>\n<tr><td>Bite and nails</td><td>60%</td><td>2D6+DB</td></tr>\n</table>\n<p><strong>Armor:</strong> 2 points of coarse fur and thick skin</p>\n<p><strong>Skills:</strong> Listen 20%, Scent Prey 80%, Spot Hidden 50%, Stealth 25%</p>\n<p><strong>Habitat:</strong> Throughout Britannia, especially in forests or near larger migratory herds</p>",
+      "value": "<p><em>Most feared natural predator. Significantly larger than grey cousins, 2.5 feet at shoulder, weighs 110-130 pounds. Pelts prized for their luxuriant coats.</em></p>\n<hr/>\n<p><strong>Category:</strong> Wildlife of Britannia</p>\n<h3>Characteristics</h3>\n<table><tr>\n<td><strong>STR</strong><br/>95</td>\n<td><strong>CON</strong><br/>65</td>\n<td><strong>SIZ</strong><br/>80</td>\n<td><strong>DEX</strong><br/>80</td>\n<td><strong>INT</strong><br/>—</td>\n<td><strong>POW</strong><br/>50</td>\n</tr></table>\n<p><strong>HP:</strong> 14 | <strong>DB:</strong> +1D6 | <strong>Build:</strong> 2 | <strong>Move:</strong> 10</p>\n<h3>Attacks</h3><table>\n<tr><th>Attack</th><th>Skill</th><th>Damage</th></tr>\n<tr><td>Bite and nails</td><td>60%</td><td>2D6+DB</td></tr>\n</table>\n<p><strong>Armor:</strong> 2 points of coarse fur and thick skin</p>\n<p><strong>Skills:</strong> Listen 20%, Scent Prey 80%, Spot Hidden 50%, Stealth 25%</p>\n<p><strong>Habitat:</strong> Throughout Britannia, especially in forests or near larger migratory herds</p>",
       "keeper": ""
     },
     "type": "wildlife",

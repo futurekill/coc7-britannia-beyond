@@ -1,5 +1,6 @@
 {
   "_id": "Zy2N8kpLoIpPX4Sl",
+  "_key": "!journal!Zy2N8kpLoIpPX4Sl",
   "name": "A Tour of the Province of Britannia",
   "pages": [
     {
@@ -7,7 +8,7 @@
       "name": "Londinium - capital and major city",
       "type": "text",
       "text": {
-        "content": "<p><em>Content for Londinium - capital and major city \u2014 refer to the Britannia & Beyond rulebook for full details.</em></p>",
+        "content": "<p><em>Content for Londinium - capital and major city — refer to the Britannia & Beyond rulebook for full details.</em></p>",
         "format": 1,
         "markdown": ""
       },
@@ -42,7 +43,7 @@
       "name": "Southern cities",
       "type": "text",
       "text": {
-        "content": "<p><em>Content for Southern cities \u2014 refer to the Britannia & Beyond rulebook for full details.</em></p>",
+        "content": "<p><em>Content for Southern cities — refer to the Britannia & Beyond rulebook for full details.</em></p>",
         "format": 1,
         "markdown": ""
       },
@@ -77,7 +78,7 @@
       "name": "Hadrian's Wall - great fortification",
       "type": "text",
       "text": {
-        "content": "<p><em>Content for Hadrian's Wall - great fortification \u2014 refer to the Britannia & Beyond rulebook for full details.</em></p>",
+        "content": "<p><em>Content for Hadrian's Wall - great fortification — refer to the Britannia & Beyond rulebook for full details.</em></p>",
         "format": 1,
         "markdown": ""
       },
@@ -112,7 +113,7 @@
       "name": "Valentia - central military zone",
       "type": "text",
       "text": {
-        "content": "<p><em>Content for Valentia - central military zone \u2014 refer to the Britannia & Beyond rulebook for full details.</em></p>",
+        "content": "<p><em>Content for Valentia - central military zone — refer to the Britannia & Beyond rulebook for full details.</em></p>",
         "format": 1,
         "markdown": ""
       },
@@ -147,7 +148,7 @@
       "name": "The North - frontier regions",
       "type": "text",
       "text": {
-        "content": "<p><em>Content for The North - frontier regions \u2014 refer to the Britannia & Beyond rulebook for full details.</em></p>",
+        "content": "<p><em>Content for The North - frontier regions — refer to the Britannia & Beyond rulebook for full details.</em></p>",
         "format": 1,
         "markdown": ""
       },
@@ -182,7 +183,7 @@
       "name": "The Frontier - edge of Roman control",
       "type": "text",
       "text": {
-        "content": "<p><em>Content for The Frontier - edge of Roman control \u2014 refer to the Britannia & Beyond rulebook for full details.</em></p>",
+        "content": "<p><em>Content for The Frontier - edge of Roman control — refer to the Britannia & Beyond rulebook for full details.</em></p>",
         "format": 1,
         "markdown": ""
       },

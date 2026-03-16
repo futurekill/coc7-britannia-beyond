@@ -1,11 +1,12 @@
 {
   "_id": "DHVtDlJ6xOImRnM9",
+  "_key": "!actors!DHVtDlJ6xOImRnM9",
   "name": "White-tailed Eagle",
   "type": "creature",
   "img": "modules/coc7-britannia-beyond/assets/icons/bestiary/default-creature.webp",
   "system": {
     "description": {
-      "value": "<p><em>Britannia's largest bird of prey, also known as 'sea eagle'. Broader wingspan than golden eagle at 7-7.5 feet, body length 2.5-3 feet. Recognizable by white tail feathers and whitish head.</em></p>\n<hr/>\n<p><strong>Category:</strong> Wildlife of Britannia</p>\n<h3>Characteristics</h3>\n<table><tr>\n<td><strong>STR</strong><br/>60</td>\n<td><strong>CON</strong><br/>65</td>\n<td><strong>SIZ</strong><br/>50</td>\n<td><strong>DEX</strong><br/>95</td>\n<td><strong>INT</strong><br/>\u2014</td>\n<td><strong>POW</strong><br/>65</td>\n</tr></table>\n<p><strong>HP:</strong> 11 | <strong>DB:</strong> 0 | <strong>Build:</strong> 0 | <strong>Move:</strong> 6 / 12 (flying)</p>\n<h3>Attacks</h3><table>\n<tr><th>Attack</th><th>Skill</th><th>Damage</th></tr>\n<tr><td>Powerful beak and large talons</td><td>45%</td><td>1D6+DB</td></tr>\n</table>\n<p><strong>Armor:</strong> 1 point feathers</p>\n<p><strong>Skills:</strong> Spot Hidden 95%</p>\n<p><strong>Habitat:</strong> Throughout Britannia, particularly along coastline and in northern regions</p>",
+      "value": "<p><em>Britannia's largest bird of prey, also known as 'sea eagle'. Broader wingspan than golden eagle at 7-7.5 feet, body length 2.5-3 feet. Recognizable by white tail feathers and whitish head.</em></p>\n<hr/>\n<p><strong>Category:</strong> Wildlife of Britannia</p>\n<h3>Characteristics</h3>\n<table><tr>\n<td><strong>STR</strong><br/>60</td>\n<td><strong>CON</strong><br/>65</td>\n<td><strong>SIZ</strong><br/>50</td>\n<td><strong>DEX</strong><br/>95</td>\n<td><strong>INT</strong><br/>—</td>\n<td><strong>POW</strong><br/>65</td>\n</tr></table>\n<p><strong>HP:</strong> 11 | <strong>DB:</strong> 0 | <strong>Build:</strong> 0 | <strong>Move:</strong> 6 / 12 (flying)</p>\n<h3>Attacks</h3><table>\n<tr><th>Attack</th><th>Skill</th><th>Damage</th></tr>\n<tr><td>Powerful beak and large talons</td><td>45%</td><td>1D6+DB</td></tr>\n</table>\n<p><strong>Armor:</strong> 1 point feathers</p>\n<p><strong>Skills:</strong> Spot Hidden 95%</p>\n<p><strong>Habitat:</strong> Throughout Britannia, particularly along coastline and in northern regions</p>",
       "keeper": ""
     },
     "type": "wildlife",

@@ -1,11 +1,12 @@
 {
   "_id": "o6DQrkaszGMQ2XQX",
+  "_key": "!actors!o6DQrkaszGMQ2XQX",
   "name": "Baobhan Sith",
   "type": "creature",
   "img": "modules/coc7-britannia-beyond/assets/icons/bestiary/default-creature.webp",
   "system": {
     "description": {
-      "value": "<p><em>S\u00eddhe vampire corrupted by dark mists of The Underworld. Appears as tall, exceedingly beautiful women in long green dresses concealing deer hooves. Can shapeshift into ravens or hooded crows. Only manifest during darkness.</em></p>\n<hr/>\n<p><strong>Category:</strong> Folklore Monster</p>\n<p><strong>HP:</strong> \u2014 | <strong>DB:</strong> \u2014 | <strong>Build:</strong> \u2014 | <strong>Move:</strong> \u2014</p>\n<p><strong>Armor:</strong> None</p>\n<h3>Special Abilities</h3><ul>\n<li>Deadly Seduction - POW check to resist charm and control</li>\n<li>Blood Draining - 1D3 CON per round once enchanted, death at 0 CON</li>\n<li>Second POW check (with bonus die) after 50% CON lost for escape</li>\n<li>Vulnerability to sunlight causes dematerialization to Dreamlands for 100 days</li>\n<li>Shapeshift to ravens or hooded crows</li>\n<li>Only manifest in World of Iron while sun is down</li>\n<li>Can cast spells (knowledge varies)</li>\n<li>Half damage from iron weapons</li>\n<li>Pass between worlds through weak points (standing stones, fairy rings, ancient oaks)</li>\n</ul>",
+      "value": "<p><em>Sídhe vampire corrupted by dark mists of The Underworld. Appears as tall, exceedingly beautiful women in long green dresses concealing deer hooves. Can shapeshift into ravens or hooded crows. Only manifest during darkness.</em></p>\n<hr/>\n<p><strong>Category:</strong> Folklore Monster</p>\n<p><strong>HP:</strong> — | <strong>DB:</strong> — | <strong>Build:</strong> — | <strong>Move:</strong> —</p>\n<p><strong>Armor:</strong> None</p>\n<h3>Special Abilities</h3><ul>\n<li>Deadly Seduction - POW check to resist charm and control</li>\n<li>Blood Draining - 1D3 CON per round once enchanted, death at 0 CON</li>\n<li>Second POW check (with bonus die) after 50% CON lost for escape</li>\n<li>Vulnerability to sunlight causes dematerialization to Dreamlands for 100 days</li>\n<li>Shapeshift to ravens or hooded crows</li>\n<li>Only manifest in World of Iron while sun is down</li>\n<li>Can cast spells (knowledge varies)</li>\n<li>Half damage from iron weapons</li>\n<li>Pass between worlds through weak points (standing stones, fairy rings, ancient oaks)</li>\n</ul>",
       "keeper": ""
     },
     "type": "monster",

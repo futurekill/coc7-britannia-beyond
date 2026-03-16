@@ -1,5 +1,6 @@
 {
   "_id": "3JZZoNIjny6c76yM",
+  "_key": "!journal!3JZZoNIjny6c76yM",
   "name": "Life in Roman Britannia",
   "pages": [
     {
@@ -7,7 +8,7 @@
       "name": "Roman settlements and cities",
       "type": "text",
       "text": {
-        "content": "<p><em>Content for Roman settlements and cities \u2014 refer to the Britannia & Beyond rulebook for full details.</em></p>",
+        "content": "<p><em>Content for Roman settlements and cities — refer to the Britannia & Beyond rulebook for full details.</em></p>",
         "format": 1,
         "markdown": ""
       },
@@ -42,7 +43,7 @@
       "name": "Celtic tribes and their integration",
       "type": "text",
       "text": {
-        "content": "<p><em>Content for Celtic tribes and their integration \u2014 refer to the Britannia & Beyond rulebook for full details.</em></p>",
+        "content": "<p><em>Content for Celtic tribes and their integration — refer to the Britannia & Beyond rulebook for full details.</em></p>",
         "format": 1,
         "markdown": ""
       },
@@ -77,7 +78,7 @@
       "name": "Social structure and hierarchy",
       "type": "text",
       "text": {
-        "content": "<p><em>Content for Social structure and hierarchy \u2014 refer to the Britannia & Beyond rulebook for full details.</em></p>",
+        "content": "<p><em>Content for Social structure and hierarchy — refer to the Britannia & Beyond rulebook for full details.</em></p>",
         "format": 1,
         "markdown": ""
       },
@@ -112,7 +113,7 @@
       "name": "Role of women in Britannia",
       "type": "text",
       "text": {
-        "content": "<p><em>Content for Role of women in Britannia \u2014 refer to the Britannia & Beyond rulebook for full details.</em></p>",
+        "content": "<p><em>Content for Role of women in Britannia — refer to the Britannia & Beyond rulebook for full details.</em></p>",
         "format": 1,
         "markdown": ""
       },
@@ -147,7 +148,7 @@
       "name": "Religion - both Roman and Celtic",
       "type": "text",
       "text": {
-        "content": "<p><em>Content for Religion - both Roman and Celtic \u2014 refer to the Britannia & Beyond rulebook for full details.</em></p>",
+        "content": "<p><em>Content for Religion - both Roman and Celtic — refer to the Britannia & Beyond rulebook for full details.</em></p>",
         "format": 1,
         "markdown": ""
       },
@@ -182,7 +183,7 @@
       "name": "Druids and their influence",
       "type": "text",
       "text": {
-        "content": "<p><em>Content for Druids and their influence \u2014 refer to the Britannia & Beyond rulebook for full details.</em></p>",
+        "content": "<p><em>Content for Druids and their influence — refer to the Britannia & Beyond rulebook for full details.</em></p>",
         "format": 1,
         "markdown": ""
       },

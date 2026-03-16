@@ -1,11 +1,12 @@
 {
   "_id": "OYfQSZjfVOk1SMVL",
+  "_key": "!adventures!OYfQSZjfVOk1SMVL",
   "name": "Dobain",
   "type": "npc",
   "img": "modules/coc7-britannia-beyond/assets/icons/adventures/default-npc.webp",
   "system": {
     "description": {
-      "value": "<p><em>Owner of one of the eight farms in Neidr Aberfa. An older retired legion member.</em></p>\n<p><strong>Role:</strong> ally\n | <strong>Occupation:</strong> Auxiliary Archer, farm owner\n</p><hr/>\n<table><tr>\n<td><strong>STR</strong><br/>65</td>\n<td><strong>CON</strong><br/>75</td>\n<td><strong>SIZ</strong><br/>60</td>\n<td><strong>DEX</strong><br/>60</td>\n<td><strong>INT</strong><br/>70</td>\n<td><strong>POW</strong><br/>60</td>\n<td><strong>APP</strong><br/>55</td>\n<td><strong>EDU</strong><br/>70</td>\n</tr></table>\n<p><strong>HP:</strong> \u2014 | <strong>SAN:</strong> 70 | <strong>MP:</strong> \u2014</p>",
+      "value": "<p><em>Owner of one of the eight farms in Neidr Aberfa. An older retired legion member.</em></p>\n<p><strong>Role:</strong> ally\n | <strong>Occupation:</strong> Auxiliary Archer, farm owner\n</p><hr/>\n<table><tr>\n<td><strong>STR</strong><br/>65</td>\n<td><strong>CON</strong><br/>75</td>\n<td><strong>SIZ</strong><br/>60</td>\n<td><strong>DEX</strong><br/>60</td>\n<td><strong>INT</strong><br/>70</td>\n<td><strong>POW</strong><br/>60</td>\n<td><strong>APP</strong><br/>55</td>\n<td><strong>EDU</strong><br/>70</td>\n</tr></table>\n<p><strong>HP:</strong> — | <strong>SAN:</strong> 70 | <strong>MP:</strong> —</p>",
       "keeper": "<p><strong>Role:</strong> ally</p>"
     },
     "characteristics": {

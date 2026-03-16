@@ -1,11 +1,12 @@
 {
   "_id": "FZltfWHmlfmIBRe0",
+  "_key": "!actors!FZltfWHmlfmIBRe0",
   "name": "Celtic (Scottish) Wildcat",
   "type": "creature",
   "img": "modules/coc7-britannia-beyond/assets/icons/bestiary/default-creature.webp",
   "system": {
     "description": {
-      "value": "<p><em>Stripped tabby-patterned fur with thick bushy ringed tails. Twice the size of regular domesticated cats. Reddish, heavier build, longer limbs.</em></p>\n<hr/>\n<p><strong>Category:</strong> Wildlife of Britannia</p>\n<h3>Characteristics</h3>\n<table><tr>\n<td><strong>STR</strong><br/>30</td>\n<td><strong>CON</strong><br/>50</td>\n<td><strong>SIZ</strong><br/>10</td>\n<td><strong>DEX</strong><br/>80</td>\n<td><strong>INT</strong><br/>\u2014</td>\n<td><strong>POW</strong><br/>70</td>\n</tr></table>\n<p><strong>HP:</strong> 6 | <strong>DB:</strong> -2 | <strong>Build:</strong> -2 | <strong>Move:</strong> 12</p>\n<h3>Attacks</h3><table>\n<tr><th>Attack</th><th>Skill</th><th>Damage</th></tr>\n<tr><td>Claws and bite</td><td>30%</td><td>1D4+DB</td></tr>\n</table>\n<p><strong>Armor:</strong> None</p>\n<p><strong>Skills:</strong> Climb 60%, Stealth 70%</p>\n<p><strong>Habitat:</strong> Throughout Britannia and Caledonia</p>",
+      "value": "<p><em>Stripped tabby-patterned fur with thick bushy ringed tails. Twice the size of regular domesticated cats. Reddish, heavier build, longer limbs.</em></p>\n<hr/>\n<p><strong>Category:</strong> Wildlife of Britannia</p>\n<h3>Characteristics</h3>\n<table><tr>\n<td><strong>STR</strong><br/>30</td>\n<td><strong>CON</strong><br/>50</td>\n<td><strong>SIZ</strong><br/>10</td>\n<td><strong>DEX</strong><br/>80</td>\n<td><strong>INT</strong><br/>—</td>\n<td><strong>POW</strong><br/>70</td>\n</tr></table>\n<p><strong>HP:</strong> 6 | <strong>DB:</strong> -2 | <strong>Build:</strong> -2 | <strong>Move:</strong> 12</p>\n<h3>Attacks</h3><table>\n<tr><th>Attack</th><th>Skill</th><th>Damage</th></tr>\n<tr><td>Claws and bite</td><td>30%</td><td>1D4+DB</td></tr>\n</table>\n<p><strong>Armor:</strong> None</p>\n<p><strong>Skills:</strong> Climb 60%, Stealth 70%</p>\n<p><strong>Habitat:</strong> Throughout Britannia and Caledonia</p>",
       "keeper": ""
     },
     "type": "wildlife",

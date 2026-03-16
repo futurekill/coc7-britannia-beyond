@@ -1,11 +1,12 @@
 {
   "_id": "0AfmU8oEWsoVhuKE",
+  "_key": "!actors!0AfmU8oEWsoVhuKE",
   "name": "Byatis, The Serpent-Bearded",
   "type": "creature",
   "img": "modules/coc7-britannia-beyond/assets/icons/bestiary/default-creature.webp",
   "system": {
     "description": {
-      "value": "<p><em>Ancient Great Old One appearing on southern shores of Britannia. Attempted to corrupt land and people. Now imprisoned in great stone door sealed by druids near the center of the British Isles.</em></p>\n<hr/>\n<p><strong>Category:</strong> Mythos Entity</p>\n<p><strong>HP:</strong> \u2014 | <strong>DB:</strong> \u2014 | <strong>Build:</strong> \u2014 | <strong>Move:</strong> \u2014</p>\n<p><strong>Armor:</strong> None</p>",
+      "value": "<p><em>Ancient Great Old One appearing on southern shores of Britannia. Attempted to corrupt land and people. Now imprisoned in great stone door sealed by druids near the center of the British Isles.</em></p>\n<hr/>\n<p><strong>Category:</strong> Mythos Entity</p>\n<p><strong>HP:</strong> — | <strong>DB:</strong> — | <strong>Build:</strong> — | <strong>Move:</strong> —</p>\n<p><strong>Armor:</strong> None</p>",
       "keeper": ""
     },
     "type": "mythos",

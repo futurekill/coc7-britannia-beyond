@@ -1,5 +1,6 @@
 {
   "_id": "28dZoGXASUsp8Poe",
+  "_key": "!journal!28dZoGXASUsp8Poe",
   "name": "The Iron Society",
   "pages": [
     {
@@ -7,7 +8,7 @@
       "name": "The Iron Society",
       "type": "text",
       "text": {
-        "content": "<p><em>Secret organization devoted to identifying and combating s\u00eddhe threats. Members wear iron rings to identify s\u00eddhe by touch. Work to identify and dispel changelings. Hunt changelings to draw attention to s\u00eddhe's kidnapping crimes.</em></p>",
+        "content": "<p><em>Secret organization devoted to identifying and combating sídhe threats. Members wear iron rings to identify sídhe by touch. Work to identify and dispel changelings. Hunt changelings to draw attention to sídhe's kidnapping crimes.</em></p>",
         "format": 1,
         "markdown": ""
       },

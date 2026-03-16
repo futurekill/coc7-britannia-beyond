@@ -1,5 +1,6 @@
 {
   "_id": "cgbCfCJoPFtGcHk6",
+  "_key": "!journal!cgbCfCJoPFtGcHk6",
   "name": "Geography, Economy & Trade",
   "pages": [
     {
@@ -7,7 +8,7 @@
       "name": "Geographic features and terrain",
       "type": "text",
       "text": {
-        "content": "<p><em>Content for Geographic features and terrain \u2014 refer to the Britannia & Beyond rulebook for full details.</em></p>",
+        "content": "<p><em>Content for Geographic features and terrain — refer to the Britannia & Beyond rulebook for full details.</em></p>",
         "format": 1,
         "markdown": ""
       },
@@ -42,7 +43,7 @@
       "name": "Climate and weather",
       "type": "text",
       "text": {
-        "content": "<p><em>Content for Climate and weather \u2014 refer to the Britannia & Beyond rulebook for full details.</em></p>",
+        "content": "<p><em>Content for Climate and weather — refer to the Britannia & Beyond rulebook for full details.</em></p>",
         "format": 1,
         "markdown": ""
       },
@@ -77,7 +78,7 @@
       "name": "Agriculture and farming",
       "type": "text",
       "text": {
-        "content": "<p><em>Content for Agriculture and farming \u2014 refer to the Britannia & Beyond rulebook for full details.</em></p>",
+        "content": "<p><em>Content for Agriculture and farming — refer to the Britannia & Beyond rulebook for full details.</em></p>",
         "format": 1,
         "markdown": ""
       },
@@ -112,7 +113,7 @@
       "name": "Trade routes and commerce",
       "type": "text",
       "text": {
-        "content": "<p><em>Content for Trade routes and commerce \u2014 refer to the Britannia & Beyond rulebook for full details.</em></p>",
+        "content": "<p><em>Content for Trade routes and commerce — refer to the Britannia & Beyond rulebook for full details.</em></p>",
         "format": 1,
         "markdown": ""
       },
@@ -147,7 +148,7 @@
       "name": "Economic resources",
       "type": "text",
       "text": {
-        "content": "<p><em>Content for Economic resources \u2014 refer to the Britannia & Beyond rulebook for full details.</em></p>",
+        "content": "<p><em>Content for Economic resources — refer to the Britannia & Beyond rulebook for full details.</em></p>",
         "format": 1,
         "markdown": ""
       },
@@ -182,7 +183,7 @@
       "name": "Connections to Empire and beyond",
       "type": "text",
       "text": {
-        "content": "<p><em>Content for Connections to Empire and beyond \u2014 refer to the Britannia & Beyond rulebook for full details.</em></p>",
+        "content": "<p><em>Content for Connections to Empire and beyond — refer to the Britannia & Beyond rulebook for full details.</em></p>",
         "format": 1,
         "markdown": ""
       },

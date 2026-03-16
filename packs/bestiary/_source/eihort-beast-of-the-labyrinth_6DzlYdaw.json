@@ -1,11 +1,12 @@
 {
   "_id": "6DzlYdawXpDfr61f",
+  "_key": "!actors!6DzlYdawXpDfr61f",
   "name": "Eihort, Beast of the Labyrinth",
   "type": "creature",
   "img": "modules/coc7-britannia-beyond/assets/icons/bestiary/default-creature.webp",
   "system": {
     "description": {
-      "value": "<p><em>Great Old One first appearing in deep caves near center of British Isles. Creates elaborate labyrinthine structures to trap victims. Hunts them methodically once lost.</em></p>\n<hr/>\n<p><strong>Category:</strong> Mythos Entity</p>\n<p><strong>HP:</strong> \u2014 | <strong>DB:</strong> \u2014 | <strong>Build:</strong> \u2014 | <strong>Move:</strong> \u2014</p>\n<p><strong>Armor:</strong> None</p>\n<p><strong>Habitat:</strong> Deep caverns and elaborate labyrinths of its own creation</p>",
+      "value": "<p><em>Great Old One first appearing in deep caves near center of British Isles. Creates elaborate labyrinthine structures to trap victims. Hunts them methodically once lost.</em></p>\n<hr/>\n<p><strong>Category:</strong> Mythos Entity</p>\n<p><strong>HP:</strong> — | <strong>DB:</strong> — | <strong>Build:</strong> — | <strong>Move:</strong> —</p>\n<p><strong>Armor:</strong> None</p>\n<p><strong>Habitat:</strong> Deep caverns and elaborate labyrinths of its own creation</p>",
       "keeper": ""
     },
     "type": "mythos",

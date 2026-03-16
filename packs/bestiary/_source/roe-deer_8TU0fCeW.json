@@ -1,11 +1,12 @@
 {
   "_id": "8TU0fCeWHgBWIh6d",
+  "_key": "!actors!8TU0fCeWHgBWIh6d",
   "name": "Roe Deer",
   "type": "creature",
   "img": "modules/coc7-britannia-beyond/assets/icons/bestiary/default-creature.webp",
   "system": {
     "description": {
-      "value": "<p><em>Smaller species of deer, reddish to grey-brown. Much more common in southern Britannia.</em></p>\n<hr/>\n<p><strong>Category:</strong> Wildlife of Britannia</p>\n<h3>Characteristics</h3>\n<table><tr>\n<td><strong>STR</strong><br/>80</td>\n<td><strong>CON</strong><br/>65</td>\n<td><strong>SIZ</strong><br/>50</td>\n<td><strong>DEX</strong><br/>65</td>\n<td><strong>INT</strong><br/>\u2014</td>\n<td><strong>POW</strong><br/>50</td>\n</tr></table>\n<p><strong>HP:</strong> 11 | <strong>DB:</strong> 1D4 | <strong>Build:</strong> 1 | <strong>Move:</strong> 12</p>\n<h3>Attacks</h3><table>\n<tr><th>Attack</th><th>Skill</th><th>Damage</th></tr>\n<tr><td>Kicking, stomping, or goring with antlers</td><td>25%</td><td>1D6+DB</td></tr>\n</table>\n<p><strong>Armor:</strong> 1 point hide</p>\n<p><strong>Skills:</strong> Listen 50%, Spot Hidden 45%, Stealth 45%</p>\n<p><strong>Habitat:</strong> Throughout Britannia, often in wooded areas</p>",
+      "value": "<p><em>Smaller species of deer, reddish to grey-brown. Much more common in southern Britannia.</em></p>\n<hr/>\n<p><strong>Category:</strong> Wildlife of Britannia</p>\n<h3>Characteristics</h3>\n<table><tr>\n<td><strong>STR</strong><br/>80</td>\n<td><strong>CON</strong><br/>65</td>\n<td><strong>SIZ</strong><br/>50</td>\n<td><strong>DEX</strong><br/>65</td>\n<td><strong>INT</strong><br/>—</td>\n<td><strong>POW</strong><br/>50</td>\n</tr></table>\n<p><strong>HP:</strong> 11 | <strong>DB:</strong> 1D4 | <strong>Build:</strong> 1 | <strong>Move:</strong> 12</p>\n<h3>Attacks</h3><table>\n<tr><th>Attack</th><th>Skill</th><th>Damage</th></tr>\n<tr><td>Kicking, stomping, or goring with antlers</td><td>25%</td><td>1D6+DB</td></tr>\n</table>\n<p><strong>Armor:</strong> 1 point hide</p>\n<p><strong>Skills:</strong> Listen 50%, Spot Hidden 45%, Stealth 45%</p>\n<p><strong>Habitat:</strong> Throughout Britannia, often in wooded areas</p>",
       "keeper": ""
     },
     "type": "wildlife",

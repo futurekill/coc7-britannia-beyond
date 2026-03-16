@@ -1,6 +1,7 @@
 {
   "_id": "SErH2FGK2bPJSkZX",
-  "name": "Leannan S\u00eddhe",
+  "_key": "!actors!SErH2FGK2bPJSkZX",
+  "name": "Leannan Sídhe",
   "type": "creature",
   "img": "modules/coc7-britannia-beyond/assets/icons/bestiary/default-creature.webp",
   "system": {

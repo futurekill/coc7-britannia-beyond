@@ -1,5 +1,6 @@
 {
   "_id": "kwKjN0a8uJ5M6T3V",
+  "_key": "!journal!kwKjN0a8uJ5M6T3V",
   "name": "The People of Britannia",
   "pages": [
     {
@@ -7,7 +8,7 @@
       "name": "Roman settlers and veterans",
       "type": "text",
       "text": {
-        "content": "<p><em>Content for Roman settlers and veterans \u2014 refer to the Britannia & Beyond rulebook for full details.</em></p>",
+        "content": "<p><em>Content for Roman settlers and veterans — refer to the Britannia & Beyond rulebook for full details.</em></p>",
         "format": 1,
         "markdown": ""
       },
@@ -42,7 +43,7 @@
       "name": "Celtic tribes of the South - various tribal groups",
       "type": "text",
       "text": {
-        "content": "<p><em>Content for Celtic tribes of the South - various tribal groups \u2014 refer to the Britannia & Beyond rulebook for full details.</em></p>",
+        "content": "<p><em>Content for Celtic tribes of the South - various tribal groups — refer to the Britannia & Beyond rulebook for full details.</em></p>",
         "format": 1,
         "markdown": ""
       },
@@ -77,7 +78,7 @@
       "name": "Tribes of Valentia - central region tribes",
       "type": "text",
       "text": {
-        "content": "<p><em>Content for Tribes of Valentia - central region tribes \u2014 refer to the Britannia & Beyond rulebook for full details.</em></p>",
+        "content": "<p><em>Content for Tribes of Valentia - central region tribes — refer to the Britannia & Beyond rulebook for full details.</em></p>",
         "format": 1,
         "markdown": ""
       },
@@ -112,7 +113,7 @@
       "name": "Northern Tribes - Caledonian and frontier tribes",
       "type": "text",
       "text": {
-        "content": "<p><em>Content for Northern Tribes - Caledonian and frontier tribes \u2014 refer to the Britannia & Beyond rulebook for full details.</em></p>",
+        "content": "<p><em>Content for Northern Tribes - Caledonian and frontier tribes — refer to the Britannia & Beyond rulebook for full details.</em></p>",
         "format": 1,
         "markdown": ""
       },
@@ -147,7 +148,7 @@
       "name": "Integration and conflict",
       "type": "text",
       "text": {
-        "content": "<p><em>Content for Integration and conflict \u2014 refer to the Britannia & Beyond rulebook for full details.</em></p>",
+        "content": "<p><em>Content for Integration and conflict — refer to the Britannia & Beyond rulebook for full details.</em></p>",
         "format": 1,
         "markdown": ""
       },
@@ -182,7 +183,7 @@
       "name": "Cultural practices and traditions",
       "type": "text",
       "text": {
-        "content": "<p><em>Content for Cultural practices and traditions \u2014 refer to the Britannia & Beyond rulebook for full details.</em></p>",
+        "content": "<p><em>Content for Cultural practices and traditions — refer to the Britannia & Beyond rulebook for full details.</em></p>",
         "format": 1,
         "markdown": ""
       },

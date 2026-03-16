@@ -1,11 +1,12 @@
 {
   "_id": "btgrhQGVYSLGVAxy",
+  "_key": "!actors!btgrhQGVYSLGVAxy",
   "name": "Aphoom Zhah",
   "type": "creature",
   "img": "modules/coc7-britannia-beyond/assets/icons/bestiary/default-creature.webp",
   "system": {
     "description": {
-      "value": "<p><em>Great Old One associated with cold and winter. Presence in far north beyond Hadrian's Wall.</em></p>\n<hr/>\n<p><strong>Category:</strong> Mythos Entity</p>\n<p><strong>HP:</strong> \u2014 | <strong>DB:</strong> \u2014 | <strong>Build:</strong> \u2014 | <strong>Move:</strong> \u2014</p>\n<p><strong>Armor:</strong> None</p>\n<p><strong>Habitat:</strong> Far north of Britain</p>",
+      "value": "<p><em>Great Old One associated with cold and winter. Presence in far north beyond Hadrian's Wall.</em></p>\n<hr/>\n<p><strong>Category:</strong> Mythos Entity</p>\n<p><strong>HP:</strong> — | <strong>DB:</strong> — | <strong>Build:</strong> — | <strong>Move:</strong> —</p>\n<p><strong>Armor:</strong> None</p>\n<p><strong>Habitat:</strong> Far north of Britain</p>",
       "keeper": ""
     },
     "type": "mythos",
