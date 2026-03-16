@@ -1,0 +1,76 @@
+{
+  "_id": "WGFy1xUIRtePiwWd",
+  "name": "Eurasian Elk",
+  "type": "creature",
+  "img": "modules/coc7-britannia-beyond/assets/icons/bestiary/default-creature.webp",
+  "system": {
+    "description": {
+      "value": "<p><em>Biggest and most massive of all deer. Nearly seven feet tall at shoulders, weighs just over 1500 pounds (females less). Notable for large open-hand-shaped antlers.</em></p>\n<hr/>\n<p><strong>Category:</strong> Wildlife of Britannia</p>\n<h3>Characteristics</h3>\n<table><tr>\n<td><strong>STR</strong><br/>150</td>\n<td><strong>CON</strong><br/>90</td>\n<td><strong>SIZ</strong><br/>160</td>\n<td><strong>DEX</strong><br/>45</td>\n<td><strong>INT</strong><br/>\u2014</td>\n<td><strong>POW</strong><br/>55</td>\n</tr></table>\n<p><strong>HP:</strong> 25 | <strong>DB:</strong> +3D6 | <strong>Build:</strong> 4 | <strong>Move:</strong> 10</p>\n<h3>Attacks</h3><table>\n<tr><th>Attack</th><th>Skill</th><th>Damage</th></tr>\n<tr><td>Trample or use mighty antlers</td><td>45%</td><td>2D6</td></tr>\n</table>\n<p><strong>Armor:</strong> 4 points of thick hide</p>\n<p><strong>Skills:</strong> Scent Threat 65%</p>\n<p><strong>Habitat:</strong> Throughout Britannia, particularly in forested areas near water</p>",
+      "keeper": ""
+    },
+    "type": "wildlife",
+    "characteristics": {
+      "str": {
+        "value": 150
+      },
+      "con": {
+        "value": 90
+      },
+      "siz": {
+        "value": 160
+      },
+      "dex": {
+        "value": 45
+      },
+      "int": {
+        "value": 0
+      },
+      "pow": {
+        "value": 55
+      }
+    },
+    "attribs": {
+      "hp": {
+        "value": 25,
+        "max": 25
+      },
+      "mp": {
+        "value": 11,
+        "max": 11
+      },
+      "mov": {
+        "value": 10
+      }
+    },
+    "special": {
+      "sanpiLoss": "0/0",
+      "armor": 4,
+      "attacksPerRound": 1,
+      "build": 4,
+      "damageBonus": "+3D6"
+    }
+  },
+  "items": [],
+  "effects": [],
+  "folder": null,
+  "sort": 9000,
+  "flags": {
+    "coc7-britannia-beyond": {
+      "creatureType": "wildlife",
+      "region": "britannia"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13",
+    "systemId": "CoC7",
+    "systemVersion": "0.10.0",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "_id": "VmZAp121u4W8U9DU",
+  "name": "Eurasian Auroch",
+  "type": "creature",
+  "img": "modules/coc7-britannia-beyond/assets/icons/bestiary/default-creature.webp",
+  "system": {
+    "description": {
+      "value": "<p><em>Massive bovine with long forward-pointing curved horns and reddish coat. 5.5 feet at shoulder, weighs over 3,000 pounds. Very dangerous and aggressive, especially during breeding season.</em></p>\n<hr/>\n<p><strong>Category:</strong> Wildlife of Britannia</p>\n<h3>Characteristics</h3>\n<table><tr>\n<td><strong>STR</strong><br/>190</td>\n<td><strong>CON</strong><br/>125</td>\n<td><strong>SIZ</strong><br/>190</td>\n<td><strong>DEX</strong><br/>45</td>\n<td><strong>INT</strong><br/>\u2014</td>\n<td><strong>POW</strong><br/>45</td>\n</tr></table>\n<p><strong>HP:</strong> 31 | <strong>DB:</strong> +4D6 | <strong>Build:</strong> 5 | <strong>Move:</strong> 12</p>\n<h3>Attacks</h3><table>\n<tr><th>Attack</th><th>Skill</th><th>Damage</th></tr>\n<tr><td>Charge, gore, and trample</td><td>35%</td><td>2D6+DB</td></tr>\n</table>\n<p><strong>Armor:</strong> 5 points of hide and muscle</p>\n<p><strong>Skills:</strong> Scent Threat 65%</p>\n<p><strong>Habitat:</strong> Throughout Britannia, remote areas of grassland and wetlands near forests</p>",
+      "keeper": ""
+    },
+    "type": "wildlife",
+    "characteristics": {
+      "str": {
+        "value": 190
+      },
+      "con": {
+        "value": 125
+      },
+      "siz": {
+        "value": 190
+      },
+      "dex": {
+        "value": 45
+      },
+      "int": {
+        "value": 0
+      },
+      "pow": {
+        "value": 45
+      }
+    },
+    "attribs": {
+      "hp": {
+        "value": 31,
+        "max": 31
+      },
+      "mp": {
+        "value": 9,
+        "max": 9
+      },
+      "mov": {
+        "value": 12
+      }
+    },
+    "special": {
+      "sanpiLoss": "0/0",
+      "armor": 5,
+      "attacksPerRound": 1,
+      "build": 5,
+      "damageBonus": "+4D6"
+    }
+  },
+  "items": [],
+  "effects": [],
+  "folder": null,
+  "sort": 8000,
+  "flags": {
+    "coc7-britannia-beyond": {
+      "creatureType": "wildlife",
+      "region": "britannia"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13",
+    "systemId": "CoC7",
+    "systemVersion": "0.10.0",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  }
+}

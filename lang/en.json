@@ -1,0 +1,26 @@
+{
+  "BRITANNIA.ModuleTitle": "Cthulhu Invictus: Britannia & Beyond",
+  "BRITANNIA.ModuleDescription": "British Isles expansion for Cthulhu Invictus",
+
+  "BRITANNIA.BestiaryPack": "Britannia Bestiary",
+  "BRITANNIA.JournalPack": "Britannia Lore",
+  "BRITANNIA.PatronsPack": "Patrons & Organizations",
+
+  "BRITANNIA.CreatureType.Wildlife": "Wildlife",
+  "BRITANNIA.CreatureType.Monster": "Folklore Monster",
+  "BRITANNIA.CreatureType.Mythos": "Mythos Entity",
+
+  "BRITANNIA.Region.Britannia": "Britannia",
+  "BRITANNIA.Region.Caledonia": "Caledonia",
+  "BRITANNIA.Region.Hibernia": "Hibernia",
+  "BRITANNIA.Region.Valentia": "Valentia",
+
+  "BRITANNIA.IPAdvisory": "This creature is derived from third-party intellectual property. Confirm licensing with Golden Goblin Press before public distribution.",
+
+  "BRITANNIA.Org.CenturiaVII": "Centuria VII Munerum Extraordinariorum",
+  "BRITANNIA.Org.IronSociety": "The Iron Society",
+  "BRITANNIA.Org.PraefecturaCivilis": "Praefectura Civilis VII",
+
+  "BRITANNIA.Adventure.TheLongDark": "The Long Dark",
+  "BRITANNIA.Adventure.AMortalHarvest": "A Mortal Harvest"
+}

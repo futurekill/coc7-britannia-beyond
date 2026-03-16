@@ -1,0 +1,62 @@
+{
+  "_id": "MviKBYaJbFyxdrhp",
+  "name": "Religion & the Druids",
+  "pages": [
+    {
+      "_id": "Vq0x9hIhRkw2pyhS",
+      "name": "Religion & the Druids",
+      "type": "text",
+      "text": {
+        "content": "<p><em>Celtic religious practices, druidic order's history and current status. Druids created stories and cautionary tales about Mythos threats. Suppressed by Romans but still influential.</em></p><p><em>Refer to the Britannia & Beyond rulebook for full details.</em></p>",
+        "format": 1,
+        "markdown": ""
+      },
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "sort": 100000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "13",
+        "systemId": "CoC7",
+        "systemVersion": "0.10.0",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      }
+    }
+  ],
+  "folder": null,
+  "sort": 6000,
+  "flags": {
+    "coc7-britannia-beyond": {
+      "chapter": 7,
+      "category": "lore"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13",
+    "systemId": "CoC7",
+    "systemVersion": "0.10.0",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  }
+}

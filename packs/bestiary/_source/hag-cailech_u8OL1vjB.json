@@ -1,0 +1,76 @@
+{
+  "_id": "u8OL1vjB4kEswf4p",
+  "name": "Hag (Cailech)",
+  "type": "creature",
+  "img": "modules/coc7-britannia-beyond/assets/icons/bestiary/default-creature.webp",
+  "system": {
+    "description": {
+      "value": "<p><em>Women who suffered wrongful deaths and accepted dark power's gift. Rise one year and a day after death as frail-looking hags with great power. Appear bent and veiled, but when angered reveal true forms with long arms, sharp claws, jagged teeth, glowing eyes.</em></p>\n<hr/>\n<p><strong>Category:</strong> Folklore Monster</p>\n<h3>Characteristics</h3>\n<table><tr>\n<td><strong>STR</strong><br/>110</td>\n<td><strong>CON</strong><br/>105</td>\n<td><strong>SIZ</strong><br/>90</td>\n<td><strong>DEX</strong><br/>80</td>\n<td><strong>INT</strong><br/>65</td>\n<td><strong>POW</strong><br/>125</td>\n</tr></table>\n<p><strong>HP:</strong> 19 | <strong>DB:</strong> +1D6 | <strong>Build:</strong> 2 | <strong>Move:</strong> 12</p>\n<h3>Attacks</h3><table>\n<tr><th>Attack</th><th>Skill</th><th>Damage</th></tr>\n<tr><td>Claws</td><td>45%</td><td>1D6+DB</td></tr>\n<tr><td>Bite</td><td>45%</td><td>1D4+DB</td></tr>\n</table>\n<p><strong>Armor:</strong> 3 points thick leathery skin; takes half damage from mundane weapons</p>\n<p><strong>Skills:</strong> Climb 75%, Jump 55%, Listen 65%, Spot Hidden 50%, Stealth 65%</p>\n<p><strong>Sanity Loss:</strong> 1/1D8</p>\n<h3>Special Abilities</h3><ul>\n<li>Hunger for human flesh</li>\n<li>Take only half damage from mundane weapons</li>\n<li>Heal quickly - return to lair to fully heal when sun sets</li>\n<li>Know 2-5 spells, often folkloric and tied to death method</li>\n<li>Physical traits relate to how they died (seaweed if drowned, moss if starved, etc.)</li>\n<li>Filthy - wounds from hags suffer penalty die for infection checks</li>\n</ul>",
+      "keeper": ""
+    },
+    "type": "monster",
+    "characteristics": {
+      "str": {
+        "value": 110
+      },
+      "con": {
+        "value": 105
+      },
+      "siz": {
+        "value": 90
+      },
+      "dex": {
+        "value": 80
+      },
+      "int": {
+        "value": 65
+      },
+      "pow": {
+        "value": 125
+      }
+    },
+    "attribs": {
+      "hp": {
+        "value": 19,
+        "max": 19
+      },
+      "mp": {
+        "value": 25,
+        "max": 25
+      },
+      "mov": {
+        "value": 12
+      }
+    },
+    "special": {
+      "sanpiLoss": "1/1D8",
+      "armor": 3,
+      "attacksPerRound": 2,
+      "build": 2,
+      "damageBonus": "+1D6"
+    }
+  },
+  "items": [],
+  "effects": [],
+  "folder": null,
+  "sort": 17000,
+  "flags": {
+    "coc7-britannia-beyond": {
+      "creatureType": "monster",
+      "region": "britannia"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13",
+    "systemId": "CoC7",
+    "systemVersion": "0.10.0",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  }
+}

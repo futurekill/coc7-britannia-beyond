@@ -1,0 +1,237 @@
+{
+  "_id": "kwKjN0a8uJ5M6T3V",
+  "name": "The People of Britannia",
+  "pages": [
+    {
+      "_id": "FoNZdXzmgUAcocrj",
+      "name": "Roman settlers and veterans",
+      "type": "text",
+      "text": {
+        "content": "<p><em>Content for Roman settlers and veterans \u2014 refer to the Britannia & Beyond rulebook for full details.</em></p>",
+        "format": 1,
+        "markdown": ""
+      },
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "sort": 100000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "13",
+        "systemId": "CoC7",
+        "systemVersion": "0.10.0",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      }
+    },
+    {
+      "_id": "zeaP6Sh7Z6xGL96u",
+      "name": "Celtic tribes of the South - various tribal groups",
+      "type": "text",
+      "text": {
+        "content": "<p><em>Content for Celtic tribes of the South - various tribal groups \u2014 refer to the Britannia & Beyond rulebook for full details.</em></p>",
+        "format": 1,
+        "markdown": ""
+      },
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "sort": 200000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "13",
+        "systemId": "CoC7",
+        "systemVersion": "0.10.0",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      }
+    },
+    {
+      "_id": "bKUe3fQW8rFgR75a",
+      "name": "Tribes of Valentia - central region tribes",
+      "type": "text",
+      "text": {
+        "content": "<p><em>Content for Tribes of Valentia - central region tribes \u2014 refer to the Britannia & Beyond rulebook for full details.</em></p>",
+        "format": 1,
+        "markdown": ""
+      },
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "sort": 300000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "13",
+        "systemId": "CoC7",
+        "systemVersion": "0.10.0",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      }
+    },
+    {
+      "_id": "h95TVAM4ByrCKoin",
+      "name": "Northern Tribes - Caledonian and frontier tribes",
+      "type": "text",
+      "text": {
+        "content": "<p><em>Content for Northern Tribes - Caledonian and frontier tribes \u2014 refer to the Britannia & Beyond rulebook for full details.</em></p>",
+        "format": 1,
+        "markdown": ""
+      },
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "sort": 400000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "13",
+        "systemId": "CoC7",
+        "systemVersion": "0.10.0",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      }
+    },
+    {
+      "_id": "hjAVyPEH5jOstM9b",
+      "name": "Integration and conflict",
+      "type": "text",
+      "text": {
+        "content": "<p><em>Content for Integration and conflict \u2014 refer to the Britannia & Beyond rulebook for full details.</em></p>",
+        "format": 1,
+        "markdown": ""
+      },
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "sort": 500000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "13",
+        "systemId": "CoC7",
+        "systemVersion": "0.10.0",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      }
+    },
+    {
+      "_id": "s4lCoiR2OSs1vnLl",
+      "name": "Cultural practices and traditions",
+      "type": "text",
+      "text": {
+        "content": "<p><em>Content for Cultural practices and traditions \u2014 refer to the Britannia & Beyond rulebook for full details.</em></p>",
+        "format": 1,
+        "markdown": ""
+      },
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "sort": 600000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "13",
+        "systemId": "CoC7",
+        "systemVersion": "0.10.0",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      }
+    }
+  ],
+  "folder": null,
+  "sort": 4000,
+  "flags": {
+    "coc7-britannia-beyond": {
+      "chapter": 5,
+      "category": "lore"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13",
+    "systemId": "CoC7",
+    "systemVersion": "0.10.0",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  }
+}

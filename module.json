@@ -1,0 +1,93 @@
+{
+  "id": "coc7-britannia-beyond",
+  "title": "Cthulhu Invictus: Britannia & Beyond",
+  "description": "An expansion module for Cthulhu Invictus set in the Roman province of Britannia, the barbarian lands of Caledonia, and Hibernia during the reign of Antoninus Pius (145 A.D.). Includes British wildlife, folklore monsters, Mythos entities, geography & lore journals, patron organizations, and two complete adventure scenarios.",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "13",
+    "verified": "13",
+    "maximum": ""
+  },
+  "relationships": {
+    "systems": [
+      {
+        "id": "CoC7",
+        "type": "system",
+        "compatibility": {
+          "minimum": "0.10.0"
+        }
+      }
+    ],
+    "requires": [
+      {
+        "id": "coc7-cthulhu-invictus",
+        "type": "module",
+        "compatibility": {
+          "minimum": "1.0.0"
+        }
+      }
+    ]
+  },
+  "authors": [
+    {
+      "name": "Miskatonic Investigative Society",
+      "url": "https://github.com/miskatonicstudio"
+    }
+  ],
+  "languages": [
+    {
+      "lang": "en",
+      "name": "English",
+      "path": "lang/en.json"
+    }
+  ],
+  "packs": [
+    {
+      "name": "bestiary",
+      "label": "Britannia Bestiary",
+      "path": "packs/bestiary",
+      "type": "Actor",
+      "system": "CoC7",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "journal",
+      "label": "Britannia Lore",
+      "path": "packs/journal",
+      "type": "JournalEntry",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "patrons-and-organizations",
+      "label": "Patrons & Organizations",
+      "path": "packs/patrons-and-organizations",
+      "type": "JournalEntry",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    }
+  ],
+  "packFolders": [
+    {
+      "name": "Britannia & Beyond",
+      "packs": [
+        "bestiary",
+        "journal",
+        "patrons-and-organizations"
+      ]
+    }
+  ],
+  "styles": [
+    "styles/britannia.css"
+  ],
+  "url": "",
+  "manifest": "",
+  "download": ""
+}

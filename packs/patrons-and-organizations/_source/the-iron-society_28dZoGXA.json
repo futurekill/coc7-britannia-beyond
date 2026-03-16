@@ -1,0 +1,61 @@
+{
+  "_id": "28dZoGXASUsp8Poe",
+  "name": "The Iron Society",
+  "pages": [
+    {
+      "_id": "BNZf1mJ9CvKfgUtH",
+      "name": "The Iron Society",
+      "type": "text",
+      "text": {
+        "content": "<p><em>Secret organization devoted to identifying and combating s\u00eddhe threats. Members wear iron rings to identify s\u00eddhe by touch. Work to identify and dispel changelings. Hunt changelings to draw attention to s\u00eddhe's kidnapping crimes.</em></p>",
+        "format": 1,
+        "markdown": ""
+      },
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "sort": 100000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "13",
+        "systemId": "CoC7",
+        "systemVersion": "0.10.0",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      }
+    }
+  ],
+  "folder": null,
+  "sort": 1000,
+  "flags": {
+    "coc7-britannia-beyond": {
+      "orgType": "organization"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13",
+    "systemId": "CoC7",
+    "systemVersion": "0.10.0",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  }
+}

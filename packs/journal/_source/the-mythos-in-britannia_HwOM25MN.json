@@ -1,0 +1,62 @@
+{
+  "_id": "HwOM25MNhajIZQwr",
+  "name": "The Mythos in Britannia",
+  "pages": [
+    {
+      "_id": "4c7WkZMBh8CVfIgi",
+      "name": "The Mythos in Britannia",
+      "type": "text",
+      "text": {
+        "content": "<p><em>Mythos entities and cults in Britannia. Focus on Sabrina Valley (Severn Valley) as heart of Mythos activity. Cults devoted to Eihort, Shub-Niggurath, Yegg-ha, and others. Both civilized cults and wild cults exist.</em></p><p><em>Refer to the Britannia & Beyond rulebook for full details.</em></p>",
+        "format": 1,
+        "markdown": ""
+      },
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "sort": 100000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "13",
+        "systemId": "CoC7",
+        "systemVersion": "0.10.0",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      }
+    }
+  ],
+  "folder": null,
+  "sort": 7000,
+  "flags": {
+    "coc7-britannia-beyond": {
+      "chapter": 12,
+      "category": "lore"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13",
+    "systemId": "CoC7",
+    "systemVersion": "0.10.0",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "_id": "r6dHflNRDpHBxzCw",
+  "name": "Llamhigyn Y Dwr",
+  "type": "creature",
+  "img": "modules/coc7-britannia-beyond/assets/icons/bestiary/default-creature.webp",
+  "system": {
+    "description": {
+      "value": "<p><em>Strange amphibious creatures appearing like large tan/greenish frogs with wide mouth and bulbous eyes. Have powerful membranous bat-like wings, no rear legs, long tail tipped with venomous stinger.</em></p>\n<hr/>\n<p><strong>Category:</strong> Folklore Monster</p>\n<h3>Characteristics</h3>\n<table><tr>\n<td><strong>STR</strong><br/>35</td>\n<td><strong>CON</strong><br/>45</td>\n<td><strong>SIZ</strong><br/>5</td>\n<td><strong>DEX</strong><br/>55</td>\n<td><strong>INT</strong><br/>35</td>\n<td><strong>POW</strong><br/>55</td>\n</tr></table>\n<p><strong>HP:</strong> 5 | <strong>DB:</strong> -2 | <strong>Build:</strong> -2 | <strong>Move:</strong> 4 (crawling) / 8 (swimming) / 6 (flying)</p>\n<h3>Attacks</h3><table>\n<tr><th>Attack</th><th>Skill</th><th>Damage</th></tr>\n<tr><td>Bite</td><td>50%</td><td>1D6+DB</td></tr>\n<tr><td>Sting</td><td>50%</td><td>1 point + Special (venom - paralysis)</td></tr>\n</table>\n<p><strong>Armor:</strong> 1 point of thick slimy hide</p>\n<p><strong>Skills:</strong> Climb 40%, Spot Prey 70%, Stealth in Water 80%, Swim 85%</p>\n<p><strong>Sanity Loss:</strong> Special (See 'Seeing a Water Leaper' below)</p>\n<h3>Special Abilities</h3><ul>\n<li>Seeing a Water Leaper - mere sight causes Sanity check; fumble = death; fail = 1D8; Regular = 1D6; Hard = 1D4; Extreme = 1D3</li>\n<li>Screech - blood curdling scream once per day, 1/1D6 Sanity, those driven insane stunned for 1D8 minutes</li>\n<li>Sting - venomous stinger causes fast-acting paralysis (1D4 minutes onset)</li>\n<li>Sting CON check: fumble = heart attack/death; fail = total paralysis; Regular = 2 penalty dice; Hard = 1 penalty die; Extreme = no penalty</li>\n<li>Venom duration 10 minutes to 1 hour</li>\n<li>Can only store 2 stings per day</li>\n<li>Attack in groups, cooperate to drag large prey</li>\n<li>Propel themselves out of water to fly short distances (up to 3 rounds)</li>\n<li>Also known as 'water leapers'</li>\n<li>Attracted to powerful Mythos beings, absorb magical energy through porous skin</li>\n</ul>",
+      "keeper": ""
+    },
+    "type": "monster",
+    "characteristics": {
+      "str": {
+        "value": 35
+      },
+      "con": {
+        "value": 45
+      },
+      "siz": {
+        "value": 5
+      },
+      "dex": {
+        "value": 55
+      },
+      "int": {
+        "value": 35
+      },
+      "pow": {
+        "value": 55
+      }
+    },
+    "attribs": {
+      "hp": {
+        "value": 5,
+        "max": 5
+      },
+      "mp": {
+        "value": 11,
+        "max": 11
+      },
+      "mov": {
+        "value": 4
+      }
+    },
+    "special": {
+      "sanpiLoss": "Special (See 'Seeing a Water Leaper' below)",
+      "armor": 1,
+      "attacksPerRound": 2,
+      "build": -2,
+      "damageBonus": "-2"
+    }
+  },
+  "items": [],
+  "effects": [],
+  "folder": null,
+  "sort": 20000,
+  "flags": {
+    "coc7-britannia-beyond": {
+      "creatureType": "monster",
+      "region": "britannia"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13",
+    "systemId": "CoC7",
+    "systemVersion": "0.10.0",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  }
+}

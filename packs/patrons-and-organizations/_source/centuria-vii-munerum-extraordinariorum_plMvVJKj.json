@@ -1,0 +1,61 @@
+{
+  "_id": "plMvVJKjIyL8SZOr",
+  "name": "Centuria VII Munerum Extraordinariorum",
+  "pages": [
+    {
+      "_id": "eKgaf9SBykGIcfpA",
+      "name": "Centuria VII Munerum Extraordinariorum",
+      "type": "text",
+      "text": {
+        "content": "<p><em>Officially part of Londinium's vigilis. Called out to handle riots and disturbances. Secretly serves Praefectura Civilis VII for armed response on sensitive matters.</em></p>",
+        "format": 1,
+        "markdown": ""
+      },
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "sort": 100000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "13",
+        "systemId": "CoC7",
+        "systemVersion": "0.10.0",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      }
+    }
+  ],
+  "folder": null,
+  "sort": 0,
+  "flags": {
+    "coc7-britannia-beyond": {
+      "orgType": "organization"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13",
+    "systemId": "CoC7",
+    "systemVersion": "0.10.0",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  }
+}

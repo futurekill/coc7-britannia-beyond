@@ -1,0 +1,76 @@
+{
+  "_id": "SErH2FGK2bPJSkZX",
+  "name": "Leannan S\u00eddhe",
+  "type": "creature",
+  "img": "modules/coc7-britannia-beyond/assets/icons/bestiary/default-creature.webp",
+  "system": {
+    "description": {
+      "value": "<p><em>Corrupted fair folk who inspire artistically-inclined humans while feeding off them. Appear as great beauty when calm, gaunt skeletal figures with blackened bones and red eyes when angered.</em></p>\n<hr/>\n<p><strong>Category:</strong> Folklore Monster</p>\n<h3>Characteristics</h3>\n<table><tr>\n<td><strong>STR</strong><br/>80</td>\n<td><strong>CON</strong><br/>65</td>\n<td><strong>SIZ</strong><br/>50</td>\n<td><strong>DEX</strong><br/>75</td>\n<td><strong>INT</strong><br/>65</td>\n<td><strong>POW</strong><br/>100</td>\n</tr></table>\n<p><strong>HP:</strong> 11 | <strong>DB:</strong> +1D4 | <strong>Build:</strong> 1 | <strong>Move:</strong> 12</p>\n<h3>Attacks</h3><table>\n<tr><th>Attack</th><th>Skill</th><th>Damage</th></tr>\n<tr><td>Clawed hands</td><td>60%</td><td>1D4+DB</td></tr>\n<tr><td>Enchanted long knife</td><td>60%</td><td>1D6+DB</td></tr>\n<tr><td>Strangle</td><td>60%</td><td>1D4+DB per round</td></tr>\n</table>\n<p><strong>Armor:</strong> None, but immune to mundane weapons, half damage from iron, full damage from enchanted weapons/spells</p>\n<p><strong>Skills:</strong> Charm 70%, Fast Talk 50%, Insight 50%, Listen 60%, Oratory/Rhetoric 65%, Persuade 40%, Stealth 50%</p>\n<p><strong>Sanity Loss:</strong> 0/1 (see due to beauty); 1/1D6 (enraged)</p>\n<h3>Special Abilities</h3><ul>\n<li>The Dark Muse - once per day, grant chosen lover 2 bonus dice to artistic skill</li>\n<li>If Hard success or better on inspired work: lose 1D6 Sanity + 1D6 CON</li>\n<li>At 0 Sanity, artist loses will to live (suicide or self-starvation)</li>\n<li>At 0 CON, artist dies from neglect of physical needs</li>\n<li>Enchanted Dagger - magical blade bound to muse, manifest/vanish at will, called back after thrown</li>\n<li>Invisibility - turn invisible at will, unlimited duration, can remain visible to chosen lover</li>\n<li>When invisible, cannot cast spells or attack; anger causes visibility to flicker</li>\n<li>Invulnerability to mundane weapons</li>\n<li>Take half damage from iron, full damage from enchanted weapons/spells</li>\n</ul>",
+      "keeper": ""
+    },
+    "type": "monster",
+    "characteristics": {
+      "str": {
+        "value": 80
+      },
+      "con": {
+        "value": 65
+      },
+      "siz": {
+        "value": 50
+      },
+      "dex": {
+        "value": 75
+      },
+      "int": {
+        "value": 65
+      },
+      "pow": {
+        "value": 100
+      }
+    },
+    "attribs": {
+      "hp": {
+        "value": 11,
+        "max": 11
+      },
+      "mp": {
+        "value": 20,
+        "max": 20
+      },
+      "mov": {
+        "value": 12
+      }
+    },
+    "special": {
+      "sanpiLoss": "0/1 (see due to beauty); 1/1D6 (enraged)",
+      "armor": 0,
+      "attacksPerRound": 3,
+      "build": 1,
+      "damageBonus": "+1D4"
+    }
+  },
+  "items": [],
+  "effects": [],
+  "folder": null,
+  "sort": 19000,
+  "flags": {
+    "coc7-britannia-beyond": {
+      "creatureType": "monster",
+      "region": "britannia"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13",
+    "systemId": "CoC7",
+    "systemVersion": "0.10.0",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  }
+}
